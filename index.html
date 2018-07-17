@@ -11,8 +11,8 @@ header-img: /assets/img/banner.jpg
     <h2>{{ page.home-title }}</h2>
     <h3>{{ page.description }}</h3>
     {% if page.header-img %}
-    <img class="header-img" src="{{ page.header-img | prepend: site.baseurl }}" alt="">
-    <img class="header-img" src="/assets/img/overlay.png" alt="">
+    <!--  <img class="header-img" src="{{ page.header-img | prepend: site.baseurl }}" alt=""> -->
+    <!-- <img class="header-img" src="/assets/img/overlay.png" alt=""> -->
     {% endif %}
 </div>
 
@@ -59,7 +59,7 @@ header-img: /assets/img/banner.jpg
         <div class="g-sidebar">
             <section class="author-card">
                 <div class="avatar">
-                    <img src="{{ site.avatar | prepend: site.baseurl }}" alt="" height="70" width="55">
+                    <img src="{{ site.avatar | prepend: site.baseurl }}" alt="" height="70" width="70">
                 </div>
                 <div class="author-name" rel="author">{{ site.author }}</div>
                 <div class="bio">

@@ -48,7 +48,7 @@
   <section class="author-detail">
     <section class="post-footer-item author-card">
       <div class="avatar">
-        <img src="{{ site.avatar | absolute_url }}" alt="">
+        <img src="{{ site.avatar | absolute_url }}" alt="" height="70" width="60">
       </div>
       <div class="author-name" rel="author">{{ site.author }}</div>
       <div class="bio">
@@ -112,8 +112,6 @@
           {% endif %}
         {% endfor %}
       ],
-      wechatQrcodeTitle: "分享到微信朋友圈",
-      wechatQrcodeHelper: '<p>扫码后点击右上角</p><p>将本文分享至朋友圈</p>'
     });
   </script>
 

@@ -22,10 +22,10 @@ plugins:
 # Site settings
 url: 'https://mydomain.com'
 baseurl: ''
-title: 'My website'
-description: 'This is my new website'
+title: 'Thomas Vandal'
+description: 'Machine Learning, Climate Informatics, Remote Sensing, and Image Processing'
 permalink: pretty
-logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
+logo: "images/headshot-300x300.jpg"
 
 # Pagination
 paginate: 5

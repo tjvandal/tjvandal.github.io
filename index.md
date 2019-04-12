@@ -1,8 +1,8 @@
 ---
 title: Thomas Vandal
 layout: page
-feature_image: ""
-feature_text: |
+feature_image: "images/earth-wide.jpg"
+feature_text: Thomas Vandal Feature Text
 ---
 
 # Research 

@@ -25,7 +25,7 @@ baseurl: ''
 title: 'Thomas Vandal'
 description: 'Machine Learning, Climate Informatics, Remote Sensing, and Image Processing'
 permalink: pretty
-logo: "images/headshot-300x300.jpg"
+logo: ""
 
 # Pagination
 paginate: 5

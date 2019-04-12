@@ -1,7 +1,7 @@
 ---
 title: Thomas Vandal
 layout: page
-feature_image: "images/headshot-300x300.jpg"
+feature_image: ""
 feature_text: |
 ---
 

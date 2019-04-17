@@ -1,0 +1,43 @@
+---
+---
+
+
+html {
+	font-family: roboto;
+}
+
+
+@import 'jekyll-theme-cayman';
+
+body {
+	color: #2F4F4F;
+}
+
+.main-content h1,
+.main-content h2,
+.main-content h3,
+.main-content h4,
+.main-content h5,
+.main-content h6 { 
+	color: #2F4F4F;
+}
+
+/* Add a white background color to the top navigation */
+.topnav {
+  background-color: #FFFFFF;
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #2F4F4F;
+  text-align: center;
+  padding: 2px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  }
+

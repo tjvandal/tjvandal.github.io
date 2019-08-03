@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # The Cayman theme
 
 [![Build Status](https://travis-ci.org/pages-themes/cayman.svg?branch=master)](https://travis-ci.org/pages-themes/cayman) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-cayman.svg)](https://badge.fury.io/rb/jekyll-theme-cayman)
@@ -107,3 +108,8 @@ If you'd like to preview the theme locally (for example, in the process of propo
 ### Running tests
 
 The theme contains a minimal test suite, to ensure a site with the theme would build successfully. To run the tests, simply run `script/cibuild`. You'll need to run `script/bootstrap` once before the test script will work.
+=======
+# tjvandal.github.io
+
+This is my new website.
+>>>>>>> 1618144089f5ec9c10a6d4d8b46cee4e50dd8125

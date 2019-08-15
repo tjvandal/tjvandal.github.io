@@ -1,18 +1,18 @@
 ---
 layout: homepage
 title: Thomas Vandal
-role: Data Scientist
+role: Research Scientist
 affiliation: NASA Ames Research Center <br>Bay Area Environmental Research Center <br> Moffett Field, CA
 contact: vandal@baeri.org <br> thomas.vandal@nasa.gov
 description: Machine Learning, Climate Science, and Remote Sensing 
 featured-img: assets/images/earth-wide.jpg
 ---
 
-I work on interdisplinary problems developing data science methodologies to improve our ability to monitor and adapt to the changing climate. I am interested in developing probabilistic machine learning techniques for resolution enhancement of earth science datasets, emulation of complex physical models, and near-term forecasting. Applications of this work includes: climate downscaling (spatial and temporal), virtual sensor through transfer learning, atmospheric motion vectors, nowcasting, super-resolution, and high performance computing (HPC). 
+My research is at the intersection of machine learning, earth sciences, image processing, and high-performance computing. I am interested in building machine learning techniques for extracting information from remotely sensed satellite imagery and atmospheric models to better understand the effects of climate change. These include applications such as spatial and temporal downscaling, emulation of physical models, generating virtual sensors, and near-term forecasting. 
 
 # Bio
 
-Thomas is data scientist at the NASA Ames Research Center and Bay Area Environmental Research Institute within the NASA Earth Exchange [(NEX)](https://nex.nasa.gov/nex/). Previously, in 2018, Thomas earned a Ph.D. in Interdisciplinary Engineering from Northeastern University working in the [Sustainability and Data Sciences Lab](https://web.northeastern.edu/sds/) advised by Auroop Ganguly and Jennifer Dy. His research has won runner-up best paper and runner-up best student paper awards at SIGKDD 2017 and outstanding graduate researcher at Northeastern University in 2018.  He is an elected student member of the committee on Artificial Intelligence Applications to Environmental Science for the American Meterological Society (AMS). Prior to graduate school he worked at multiple startups in the Boston area.  In 2012, he completed his bachelors in mathematics at the University of Maryland College Park.
+Thomas is a research scientist at the NASA Ames Research Center and Bay Area Environmental Research Institute within the NASA Earth Exchange [(NEX)](https://nex.nasa.gov/nex/). In August 2018 Thomas earned a Ph.D. in Interdisciplinary Engineering from Northeastern University working in the [Sustainability and Data Sciences Lab](https://web.northeastern.edu/sds/) advised by Auroop Ganguly and Jennifer Dy. His research has won runner-up best paper and runner-up best student paper awards at SIGKDD 2017 and outstanding graduate researcher at Northeastern University in 2018.  He is an elected student member of the committee on Artificial Intelligence Applications to Environmental Science for the American Meterological Society (AMS). Prior to graduate school he worked at multiple startups in the Boston area, including the MIT Media Lab spin-out Affectiva.  He completed his bachelors in mathematics at the University of Maryland College Park in 2012.
 
 # News
 

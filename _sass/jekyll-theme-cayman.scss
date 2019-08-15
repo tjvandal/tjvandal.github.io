@@ -29,7 +29,7 @@ body {
   padding: 0;
   margin: 0;
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 16px;
+  font-size: 14px;
   line-height: 1.5;
   color: $body-text-color;
 }
@@ -125,20 +125,10 @@ a {
 }
 
 .project-name {
-  margin-top: 0;
-  margin-bottom: 0.1rem;
+  margin-top: 10rem;
+  margin-bottom: 5rem;
 
-  @include large {
-    font-size: 3.25rem;
-  }
-
-  @include medium {
-    font-size: 2.25rem;
-  }
-
-  @include small {
-    font-size: 1.75rem;
-  }
+  font-size: 1.75rem;
 }
 
 .project-tagline {
@@ -167,20 +157,20 @@ a {
   }
 
   @include large {
-    max-width: 64rem;
+    max-width: 70rem;
     padding: 2rem 6rem;
     margin: 0 auto;
-    font-size: 1.1rem;
+    font-size: 12px;
   }
 
   @include medium {
     padding: 2rem 4rem;
-    font-size: 1.1rem;
+    font-size: 12px;
   }
 
   @include small {
     padding: 2rem 1rem;
-    font-size: 1rem;
+    font-size: 12px;
   }
   
   kbd {

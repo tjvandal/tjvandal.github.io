@@ -37,8 +37,18 @@
       <hr/>
 
       <div id="row">
+
+        <div id="photo-well" class="pull-right well">
+          <img alt="photo" src="assets/images/alaska-photo.jpg">
+          <div> {{ page.title }} <br> 
+                {{ page.role }} <br> <br>
+                {{ page.affiliation }} <br> <br>
+                {{ page.contact}}
+         </div>
+        </div>
+
           {{ content }}
-      </div>
+        </div>
 
         <footer class="site-footer">
           {% if site.github.is_project_page %}

@@ -1,9 +1,10 @@
 ---
 layout: default
 title: Publications 
-description:  
+description: 
 featured-img: assets/images/earth-wide.jpg
 ---
+
 
 ## Preprints
 

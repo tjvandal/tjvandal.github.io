@@ -1,2 +1,4 @@
 theme: jekyll-theme-cayman
 plugins: ['jekyll/scholar']
+kramdown:
+  parse_block_html: true

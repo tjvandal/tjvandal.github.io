@@ -2,10 +2,10 @@
 layout: homepage
 title: Thomas Vandal
 role: Research Scientist
-affiliation: NASA Ames Research Center <br>Bay Area Environmental Research Center <br> Moffett Field, CA
-contact: vandal@baeri.org <br> thomas.vandal@nasa.gov <br> <br> Code:<a href="https://www.github.com/tjvandal">Github</a>
+affiliation: NASA Ames Research Center <br>Bay Area Environmental Research Institute <br> Moffett Field, CA
+contact: vandal@baeri.org <br> thomas.vandal@nasa.gov <br> <br> <a href="https://www.github.com/tjvandal">Github</a>
 description: Machine Learning, Climate Science, and Remote Sensing 
-featured-img: assets/images/earth-wide.jpg
+
 ---
 
 My research is at the intersection of machine learning, earth sciences, image processing, and high-performance computing. I am interested in building machine learning techniques for extracting information from remotely sensed satellite imagery and atmospheric models to better understand the effects of climate change. These include applications such as spatial and temporal downscaling, emulation of physical models, generating virtual sensors, and near-term forecasting. 

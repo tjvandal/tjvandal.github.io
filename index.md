@@ -3,7 +3,7 @@ layout: homepage
 title: Thomas Vandal
 role: Research Scientist
 affiliation: NASA Ames Research Center <br>Bay Area Environmental Research Institute <br> Moffett Field, CA
-contact: vandal@baeri.org <br> thomas.vandal@nasa.gov <br> <br> <a href="https://www.github.com/tjvandal">Github</a>
+contact: vandal@baeri.org <br> thomas.vandal@nasa.gov <br> 
 description: Machine Learning, Climate Science, and Remote Sensing 
 
 ---

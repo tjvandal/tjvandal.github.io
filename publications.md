@@ -8,55 +8,55 @@ featured-img: assets/images/earth-wide.jpg
 
 ## Preprints
 
-**Vandal, T.** & Nemani, R. (2019). "Optical Flow for Intermediate Frame Interpolation of Multispectral Geostationary Satellite Data". [[arxiv]](https://arxiv.org/pdf/1907.12013.pdf)
+**Vandal, T.** & Nemani, R. (2019). "Optical Flow for Intermediate Frame Interpolation of Multispectral Geostationary Satellite Data". [Arxiv](https://arxiv.org/pdf/1907.12013.pdf).
 
-Wilson, M., **Vandal, T.**, Hogg, T., & Rieffel, E. (2019). "Quantum-assisted associative network: Applying quantum annealing in deep learning". [[arxiv]](https://arxiv.org/pdf/1904.10573.pdf)
+Wilson, M., **Vandal, T.**, Hogg, T., & Rieffel, E. (2019). "Quantum-assisted associative network: Applying quantum annealing in deep learning". [Arxiv](https://arxiv.org/pdf/1904.10573.pdf).
 
-Duffy, K., **Vandal, T.**, Wang, W., Nemani, R., & Ganguly, A. R. (2019). Deep Learning Emulation of Multi-Angle Implementation of Atmospheric Correction (MAIAC). arXiv preprint arXiv:1910.13408. [[arxiv]](https://arxiv.org/pdf/1910.13408)
+Duffy, K., **Vandal, T.**, Wang, W., Nemani, R., & Ganguly, A. R. (2019). Deep Learning Emulation of Multi-Angle Implementation of Atmospheric Correction (MAIAC). arXiv preprint arXiv:1910.13408. [Arxiv](https://arxiv.org/pdf/1910.13408).
 
 ## Conference Papers
 
 Duffy, K., **Vandal, T.**, Li, S., Ganguly, S., Nemani, R. & Ganguly, A. (2019). "DeepEmSat: Deep Emulation of Satellite Data Mining", SIGKDD workshop on Fragile Earth: Theory Guided Data Science to Enhance Scientific Discovery. 
 
-**Vandal, T.**, Kodra, E., Ganguly, S., Dy, J., Nemani, R., & Ganguly, A (2018): “Quantifying Uncertainty in Discrete-Continuous and Skewed Data with Bayesian Deep Learning,” Proceedings of the 24rd ACM **SIGKDD** Conference on Knowledge Discovery and Data Mining, 1663-1672. (Research Track, 18% acceptance rate)[[paper]](https://www.kdd.org/kdd2018/accepted-papers/view/quantifying-uncertainty-in-discrete-continuous-and-skewed-data-with-bayesia) [[code]](https://github.com/tjvandal/discrete-continuous-bdl)
+**Vandal, T.**, Kodra, E., Ganguly, S., Dy, J., Nemani, R., & Ganguly, A (2018): “Quantifying Uncertainty in Discrete-Continuous and Skewed Data with Bayesian Deep Learning,” Proceedings of the 24rd ACM **SIGKDD** Conference on Knowledge Discovery and Data Mining, 1663-1672. (Research Track, 18% acceptance rate). [Paper](https://www.kdd.org/kdd2018/accepted-papers/view/quantifying-uncertainty-in-discrete-continuous-and-skewed-data-with-bayesia), [Code](https://github.com/tjvandal/discrete-continuous-bdl).
 
 Koduri, V., **Vandal, T.**, Ganguly, S., & Ganguly, A. (2018). “Data Mining for Weather Impacts on Crop Yield”,  SIGKDD workshop on Fragile Earth: Theory Guided Data Science to Enhance Scientific Discovery. 
 
-**Vandal, T.**, Livingston, M., Piho, C., Zimmerman, S. (2018). “Prediction and Uncertainty Quantification of Daily Airport Flight Delays.” Proceedings of The 4th *International Conference on Predictive Applications and APIs*, in PMLR. [[paper]](http://proceedings.mlr.press/v82/vandal18a/vandal18a.pdf) 
+**Vandal, T.**, Livingston, M., Piho, C., Zimmerman, S. (2018). “Prediction and Uncertainty Quantification of Daily Airport Flight Delays.” Proceedings of The 4th *International Conference on Predictive Applications and APIs*, in PMLR. [Paper](http://proceedings.mlr.press/v82/vandal18a/vandal18a.pdf).
 
-**Vandal, T.**, Kodra, E., Ganguly, S., Michaelis, A., Nemani, R., & Ganguly, A. (2018). “Generating High Resolution Climate Change Projections through Single Image Super-Resolution: An Abridged Version.” Proceedings of the Twenty-Seventh International *Joint Conference on Artificial Intelligence and Twenty-Third European Conference on Artificial Intelligence*, Sister Best Paper Track (**IJCAI** Invited Submission). [[paper]](https://www.ijcai.org/proceedings/2018/0759.pdf)
+**Vandal, T.**, Kodra, E., Ganguly, S., Michaelis, A., Nemani, R., & Ganguly, A. (2018). “Generating High Resolution Climate Change Projections through Single Image Super-Resolution: An Abridged Version.” Proceedings of the Twenty-Seventh International *Joint Conference on Artificial Intelligence and Twenty-Third European Conference on Artificial Intelligence*, Sister Best Paper Track (**IJCAI** Invited Submission). [Paper](https://www.ijcai.org/proceedings/2018/0759.pdf).
 
-**Vandal, T.**, Kodra, E., Ganguly, S., Michaelis, A., Nemani, R., & Ganguly, A. (2017). “DeepSD: Generating high resolution climate change projections through single image super-Resolution,” KDD 2017, Proceedings of the 23rd ACM **SIGKDD** *Conference on Knowledge Discovery and Data Mining*, 1663-1672. (Runner-Up BEST PAPER Award and Runner-up BEST STUDENT PAPER Award in Applied Data Science Track, 9% oral acceptance rate) [[paper]](https://www.kdd.org/kdd2017/papers/view/deepsd-generating-high-resolution-climate-change-projections-through-single) [[code]](https://github.com/tjvandal/deepsd)
+**Vandal, T.**, Kodra, E., Ganguly, S., Michaelis, A., Nemani, R., & Ganguly, A. (2017). “DeepSD: Generating high resolution climate change projections through single image super-Resolution,” KDD 2017, Proceedings of the 23rd ACM **SIGKDD** *Conference on Knowledge Discovery and Data Mining*, 1663-1672. (Runner-Up BEST PAPER Award and Runner-up BEST STUDENT PAPER Award in Applied Data Science Track, 9% oral acceptance rate). [Paper](https://www.kdd.org/kdd2017/papers/view/deepsd-generating-high-resolution-climate-change-projections-through-single), [Code](https://github.com/tjvandal/deepsd).
 
-**Vandal, T.** & Ganguly, A. (2017), “Uncertainty Quantification of Statistical Downscaling using Bayesian Deep Learning.” 7th *International Workshop on Climate Informatics*, Boulder, CO.
+**Vandal, T.** & Ganguly, A. (2017), “Uncertainty Quantification of Statistical Downscaling using Bayesian Deep Learning.” 7th *International Workshop on Climate Informatics*, Boulder, CO. 
 
 Li, Y., Chang, Y., **Vandal, T.**,  Das, D., Ding, A., Ganguly,  A., & Dy, J. (2016), “Copula based covariate selection in climate for statistical downscaling", 5th *International Workshop on Climate Informatics*, Boulder, CO.
 
-**Vandal, T.**, McDuff, D., & Kaliouby, R. (2015), “Event Detection : Ultra Large-scale Clustering of Facial Expressions.” 11th IEEE *International Conference on Automatic Face and Gesture Recognition*, Ljubljana, Slovenia. [[paper]](http://www.affectiva.com/wp-content/uploads/2017/03/Event-Detection-Ultra-Large-scale-Clustering-of-Facial-Expressions.pdf)
+**Vandal, T.**, McDuff, D., & Kaliouby, R. (2015), “Event Detection : Ultra Large-scale Clustering of Facial Expressions.” 11th IEEE *International Conference on Automatic Face and Gesture Recognition*, Ljubljana, Slovenia. [Paper](http://www.affectiva.com/wp-content/uploads/2017/03/Event-Detection-Ultra-Large-scale-Clustering-of-Facial-Expressions.pdf).
 
 ## Journal Publications
 
-Li, S., Wang, W., Hashimoto, H., Xiong, J., **Vandal, T.**, Yao, J., Qian, L., Ichii, K., Lyapustin, A., Wang, Y., & Nemani, R., "First Provisional Land Surface Reflectance Product from Geostationary Satellite Himawari-8 AHI". *Remote Sensing*. December 12 2019. https://doi.org/10.3390/rs11242990.
+Li, S., Wang, W., Hashimoto, H., Xiong, J., **Vandal, T.**, Yao, J., Qian, L., Ichii, K., Lyapustin, A., Wang, Y., & Nemani, R., "First Provisional Land Surface Reflectance Product from Geostationary Satellite Himawari-8 AHI". *Remote Sensing*. December 12 2019. [DOI](https://doi.org/10.3390/rs11242990).
 
-Duff, K., **Vandal, T.**, Li, S., Ganguly, S., Nemani, R., & Ganguly, A., "DeepEmSat: Deep Emulation for Satellite Data Mining." *Frontiers in Big Data*. December 10 2019. [[paper]](https://www.frontiersin.org/articles/10.3389/fdata.2019.00042/full)
+Duff, K., **Vandal, T.**, Li, S., Ganguly, S., Nemani, R., & Ganguly, A., "DeepEmSat: Deep Emulation for Satellite Data Mining." *Frontiers in Big Data*. December 10 2019. [Paper](https://www.frontiersin.org/articles/10.3389/fdata.2019.00042/full).
 
-**Vandal, T.**, E. Kodra, and A. Ganguly, “Intercomparison of Machine Learning Methods for Statistical Downscaling: The Case of Daily and Extreme Precipitation.” *Theoretical and Applied Climatology*. September 2018.
+**Vandal, T.**, E. Kodra, and A. Ganguly, “Intercomparison of Machine Learning Methods for Statistical Downscaling: The Case of Daily and Extreme Precipitation.” *Theoretical and Applied Climatology*. September 2018. [Paper](https://link.springer.com/article/10.1007/s00704-018-2613-3).
 
 ## Dissertation
 
-**Vandal, T.**, “Statistical Downscaling of Global Climate Models with Image Super-resolution and Uncertainty Quantification”, 2018. Northeastern University. [[Dissertation]](./papers/vandal_dissertation_2018.pdf)
+**Vandal, T.**, “Statistical Downscaling of Global Climate Models with Image Super-resolution and Uncertainty Quantification”, 2018. Northeastern University. [Dissertation](./papers/vandal_dissertation_2018.pdf)
 
 ## Book Chapters
 
-**Vandal, T.**,  Bhatia, U., and Ganguly, A. (2017), “Statistical Downscaling in Climate with State of the Art Scalable Machine Learning.” Large-Scale Machine Learning in the Earth Sciences. Taylor & Francis.
+**Vandal, T.**,  Bhatia, U., and Ganguly, A. (2017), “Statistical Downscaling in Climate with State of the Art Scalable Machine Learning.” Large-Scale Machine Learning in the Earth Sciences. Taylor & Francis. [Chapter](https://www.taylorfrancis.com/books/e/9781315371740/chapters/10.4324/9781315371740-4)
 
 ## Conference Poster Presentations
 
-**Vandal, T.**, Nemani, R. R., Wang, W., & Li, S. (2019, December). Transfer Learning to Generate True Color Images from GOES-16. In AGU Fall Meeting 2019. [AGU](https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/608499)
+**Vandal, T.**, Nemani, R. R., Wang, W., & Li, S. (2019, December). Transfer Learning to Generate True Color Images from GOES-16. In AGU Fall Meeting 2019. [AGU](https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/608499).
 
 Duffy, K., Vandal, T., Li, S., Nemani, R. R., & Ganguly, A. R. (2019, December). Deep Learning Emulation of Atmospheric Correction for Geostationary Sensors. In AGU Fall Meeting 2019. [AGU](https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/543801).
 
-Li, S., Wang, W., Hashimoto, H., **Vandal, T.**, Yao, J., & Nemani, R. R. (2019, December). Surface Reflectance Product from Geostationary Satellite. In AGU Fall Meeting 2019. [AGU](https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/488058)
+Li, S., Wang, W., Hashimoto, H., **Vandal, T.**, Yao, J., & Nemani, R. R. (2019, December). Surface Reflectance Product from Geostationary Satellite. In AGU Fall Meeting 2019. [AGU](https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/488058).
 
 **Vandal, T.**, Ganguly, S., Kodra, E., Dy, J., Michaelis, A., Nemani, R., & Ganguly, A. (2018). Image Super-Resolution and Uncertainty Quantification for Earth Science Data on NASA Earth Exchange AI Platform (Invited). In AGU Fall Meeting Abstracts.
 

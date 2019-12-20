@@ -16,26 +16,26 @@ Thomas is a research scientist at the NASA Ames Research Center and [Bay Area En
 
 # Recent Work
 
-<p>(December 2019) Presented at the [AGU Fall Meeting](https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/608499) </p>
-<p>(August 2019) Pre-print posted, ["Optical Flow for Intermediate Frame Interpolation of Multispectral Geostationary Satellite Data"](https://arxiv.org/abs/1907.12013), on Arxiv </p>
-<p>(July 2019) Presented at the [Space Lidar Winds Working Group Meeting](https://winds-lidar-group.larc.nasa.gov/) at the National Institute of Aerospace </p>
-<p>(April 2019) Presented at the [1st Workshop on Leveraging AI in the Exploitation of Satellite Earth Observations & Numerical Weather Prediction](https://www.star.nesdis.noaa.gov/star/meeting_2019AIWorkshop.php). [slides](https://www.star.nesdis.noaa.gov/star/documents/meetings/2019AI/Wednesday/S2_3-3_NOAAai2019_Vandal.pptx) </p>
-<p>(August 2018) I joined the NASA Earth Exchange [(NEX)](https://www.nasa.gov/nex/team/) at Ames research center [[NEU News]](http://www.civ.neu.edu/news/sds-lab-phd-student-thomas-vandal-accepts-position-nasa-scientist) </p>
-<p>(July 2018) Our paper was invited for submission to the Sister's Best Paper Track at [IJCAI 2018](https://www.ijcai.org/proceedings/2018/759) </p>
-<p>(August 2018) Paper accepted to KDD 2018 research track on ["Quantifying Uncertainty in Discrete-Continuous and Skewed Data with Bayesian Deep Learning"](https://www.kdd.org/kdd2018/accepted-papers/view/quantifying-uncertainty-in-discrete-continuous-and-skewed-data-with-bayesia)</p>
+<p>(December 2019) Presented at the [AGU Fall Meeting](https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/608499). </p>
+<p>(August 2019) Pre-print posted, ["Optical Flow for Intermediate Frame Interpolation of Multispectral Geostationary Satellite Data"](https://arxiv.org/abs/1907.12013), on Arxiv. </p>
+<p>(July 2019) Presented at the [Space Lidar Winds Working Group Meeting](https://winds-lidar-group.larc.nasa.gov/) at the National Institute of Aerospace.</p>
+<p>(April 2019) Presented at the [1st Workshop on Leveraging AI in the Exploitation of Satellite Earth Observations & Numerical Weather Prediction](https://www.star.nesdis.noaa.gov/star/meeting_2019AIWorkshop.php), [Slides](https://www.star.nesdis.noaa.gov/star/documents/meetings/2019AI/Wednesday/S2_3-3_NOAAai2019_Vandal.pptx).</p>
+<p>(August 2018) I joined the NASA Earth Exchange [(NEX)](https://www.nasa.gov/nex/team/) at Ames research center [[NEU News]](http://www.civ.neu.edu/news/sds-lab-phd-student-thomas-vandal-accepts-position-nasa-scientist). </p>
+<p>(July 2018) Our paper was invited for submission to the Sister's Best Paper Track at [IJCAI 2018](https://www.ijcai.org/proceedings/2018/759). </p>
+<p>(August 2018) Paper accepted to KDD 2018 research track on ["Quantifying Uncertainty in Discrete-Continuous and Skewed Data with Bayesian Deep Learning"](https://www.kdd.org/kdd2018/accepted-papers/view/quantifying-uncertainty-in-discrete-continuous-and-skewed-data-with-bayesia).</p>
 <p>(December 2017) Research is featured in the Nature comment article [The case for technology investments in the environment
-](https://www.nature.com/articles/d41586-017-08675-7)</p>
-<p>(August 2017) DeepSD won runner-up best paper and runner-up best student paper in the [applied data science track at KDD](https://www.kdd.org/kdd2017/accepted-papers),[[News]](https://knuth.coe.neu.edu/news/phd-student-ganguly-receive-runner-up-best-paper-awards/)</p>
-<p>(August 2017) Paper accepted at KDD 2017 on ["DeepSD: Generating High Resolution Climate Change Projections through Single Image Super-Resolution"](https://www.kdd.org/kdd2017/papers/view/deepsd-generating-high-resolution-climate-change-projections-through-single) </p>
+](https://www.nature.com/articles/d41586-017-08675-7).</p>
+<p>(August 2017) DeepSD won runner-up best paper and runner-up best student paper in the [applied data science track at KDD](https://www.kdd.org/kdd2017/accepted-papers),[NEU](https://knuth.coe.neu.edu/news/phd-student-ganguly-receive-runner-up-best-paper-awards/).</p>
+<p>(August 2017) Paper accepted at KDD 2017 on [DeepSD: Generating High Resolution Climate Change Projections through Single Image Super-Resolution](https://www.kdd.org/kdd2017/papers/view/deepsd-generating-high-resolution-climate-change-projections-through-single). </p>
 
 # Selected Publications
 
-**Vandal, T.** & Nemani, R. (2019). "Optical Flow for Intermediate Frame Interpolation of Multispectral Geostationary Satellite Data". [[arxiv]](https://arxiv.org/pdf/1907.12013.pdf)
+**Vandal, T.** & Nemani, R. (2019). "Optical Flow for Intermediate Frame Interpolation of Multispectral Geostationary Satellite Data". [Arxiv Pre-print](https://arxiv.org/pdf/1907.12013.pdf)
 
-**Vandal, T.**, Kodra, E., Ganguly, S., Dy, J., Nemani, R., & Ganguly, A (2018): “Quantifying Uncertainty in Discrete-Continuous and Skewed Data with Bayesian Deep Learning,” Proceedings of the 24rd ACM **SIGKDD** Conference on Knowledge Discovery and Data Mining, 1663-1672. (Research Track, 18% acceptance rate)[[paper]](https://www.kdd.org/kdd2018/accepted-papers/view/quantifying-uncertainty-in-discrete-continuous-and-skewed-data-with-bayesia) [[code]](https://github.com/tjvandal/discrete-continuous-bdl)
+**Vandal, T.**, Kodra, E., Ganguly, S., Dy, J., Nemani, R., & Ganguly, A (2018): “Quantifying Uncertainty in Discrete-Continuous and Skewed Data with Bayesian Deep Learning,” Proceedings of the 24rd ACM **SIGKDD** Conference on Knowledge Discovery and Data Mining, 1663-1672. (Research Track, 18% acceptance rate)[Paper](https://www.kdd.org/kdd2018/accepted-papers/view/quantifying-uncertainty-in-discrete-continuous-and-skewed-data-with-bayesia), [Code](https://github.com/tjvandal/discrete-continuous-bdl).
 
-**Vandal, T.**, Kodra, E., Ganguly, S., Michaelis, A., Nemani, R., & Ganguly, A. (2017). “DeepSD: Generating high resolution climate change projections through single image super-Resolution,” KDD 2017, Proceedings of the 23rd ACM **SIGKDD** Conference on Knowledge Discovery and Data Mining, 1663-1672. (Runner-Up BEST PAPER Award and Runner-up BEST STUDENT PAPER Award in Applied Data Science Track, 9% oral acceptance rate) [[paper]](https://www.kdd.org/kdd2017/papers/view/deepsd-generating-high-resolution-climate-change-projections-through-single) [[code]](https://github.com/tjvandal/deepsd)
+**Vandal, T.**, Kodra, E., Ganguly, S., Michaelis, A., Nemani, R., & Ganguly, A. (2017). “DeepSD: Generating high resolution climate change projections through single image super-Resolution,” KDD 2017, Proceedings of the 23rd ACM **SIGKDD** Conference on Knowledge Discovery and Data Mining, 1663-1672. (Runner-Up BEST PAPER Award and Runner-up BEST STUDENT PAPER Award in Applied Data Science Track, 9% oral acceptance rate). [Paper](https://www.kdd.org/kdd2017/papers/view/deepsd-generating-high-resolution-climate-change-projections-through-single) [[code]](https://github.com/tjvandal/deepsd).
 
-**Vandal, T.**, E. Kodra, and A. Ganguly, “Intercomparison of Machine Learning Methods for Statistical Downscaling: The Case of Daily and Extreme Precipitation.” Theoretical and Applied Climatology. September 2018.
+**Vandal, T.**, E. Kodra, and A. Ganguly, “Intercomparison of Machine Learning Methods for Statistical Downscaling: The Case of Daily and Extreme Precipitation.” *Theoretical and Applied Climatology*. September 2018. [Paper](https://link.springer.com/article/10.1007/s00704-018-2613-3).
 
-**Vandal, T.**, “Statistical Downscaling of Global Climate Models with Image Super-resolution and Uncertainty Quantification”, 2018. Northeastern University. [[Dissertation]](./papers/vandal_dissertation_2018.pdf)
+**Vandal, T.**, “Statistical Downscaling of Global Climate Models with Image Super-resolution and Uncertainty Quantification”, 2018. Northeastern University. [Dissertation](./papers/vandal_dissertation_2018.pdf).

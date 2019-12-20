@@ -2,7 +2,7 @@
 layout: homepage
 title: Thomas Vandal
 role: Research Scientist
-affiliation: NASA Ames Research Center <br>Bay Area Environmental Research Institute <br> Moffett Field, CA
+affiliation: NASA Ames Research Center <br>Bay Area Environmental Research Institute <br> Moffett Field, CA 94035
 contact: vandal@baeri.org <br> thomas.vandal@nasa.gov <br> 
 description: Machine Learning, Climate Science, and Remote Sensing 
 
@@ -12,20 +12,21 @@ My research is at the intersection of machine learning, earth sciences, image pr
 
 # Bio
 
-Thomas is a research scientist at the NASA Ames Research Center and Bay Area Environmental Research Institute within the NASA Earth Exchange [(NEX)](https://nex.nasa.gov/nex/). In August 2018 Thomas earned a Ph.D. in Interdisciplinary Engineering from Northeastern University working in the [Sustainability and Data Sciences Lab](https://web.northeastern.edu/sds/) advised by Auroop Ganguly and Jennifer Dy. His research has won runner-up best paper and runner-up best student paper awards at SIGKDD 2017 and outstanding graduate researcher at Northeastern University in 2018.  He is an elected student member of the committee on Artificial Intelligence Applications to Environmental Science for the American Meterological Society (AMS). Prior to graduate school he worked at multiple startups in the Boston area, including the MIT Media Lab spin-out Affectiva.  He completed his bachelors in mathematics at the University of Maryland College Park in 2012.
+Thomas is a research scientist at the NASA Ames Research Center and Bay Area Environmental Research Institute within the NASA Earth Exchange [(NEX)](https://www.nasa.gov/nex). In August 2018 Thomas earned a Ph.D. in Interdisciplinary Engineering from Northeastern University working in the [Sustainability and Data Sciences Lab](https://web.northeastern.edu/sds/) advised by Auroop Ganguly and Jennifer Dy. His [research](https://www.youtube.com/watch?v=DBYKfMTS23Q) has won [runner-up best paper and runner-up best student paper awards at SIGKDD 2017](https://www.kdd.org/awards/view/2017-sigkdd-best-paper-award-winners) and outstanding graduate researcher at Northeastern University in 2018.  He is an elected student member of the committee on [Artificial Intelligence Applications to Environmental Science for the American Meterological Society (AMS)](https://www.ametsoc.org/index.cfm/stac/committees/committee-on-artificial-intelligence-applications-to-environmental-science/membership/). Prior to graduate school he worked at multiple startups in the Boston area, including the MIT Media Lab spin-out Affectiva.  He completed his bachelors in mathematics at the University of Maryland College Park in 2012.
 
-# News
+# Recent Work
 
-- Posted a pre-print, ["Optical Flow for Intermediate Frame Interpolation of Multispectral Geostationary Satellite Data"](https://arxiv.org/abs/1907.12013), on Arxiv (August 2019)
-- Presented at the [Space Lidar Winds Working Group Meeting](https://winds-lidar-group.larc.nasa.gov/) at the National Institute of Aerospace in Hampton, VA (July 2018)
-- Presented at the [1st Workshop on Leveraging AI in the Exploitation of Satellite Earth Observations & Numerical Weather Prediction](https://www.star.nesdis.noaa.gov/star/meeting_2019AIWorkshop.php) in College Park, MD. [[slides]](https://www.star.nesdis.noaa.gov/star/documents/meetings/2019AI/Wednesday/S2_3-3_NOAAai2019_Vandal.pptx) (April 2019)
-- I joined the NASA Earth Exchange [(NEX)](https://nex.nasa.gov/nex/) at Ames research center [[NEU News]](http://www.civ.neu.edu/news/sds-lab-phd-student-thomas-vandal-accepts-position-nasa-scientist)
-- Our paper was invited for submission to the Sister's Best Paper Track at [IJCAI 2018](https://www.ijcai.org/proceedings/2018/759) (July 2018)
-- Paper accepted to KDD 2018 research track on ["Quantifying Uncertainty in Discrete-Continuous and Skewed Data with Bayesian Deep Learning"](https://www.kdd.org/kdd2018/accepted-papers/view/quantifying-uncertainty-in-discrete-continuous-and-skewed-data-with-bayesia) (April 2018)
-- Research is featured in the Nature comment article [The case for technology investments in the environment
-](https://www.nature.com/articles/d41586-017-08675-7) (December 2017)
-- DeepSD won runner-up best paper and runner-up best student paper in the [applied data science track at KDD](https://www.kdd.org/kdd2017/accepted-papers),[[News]](https://knuth.coe.neu.edu/news/phd-student-ganguly-receive-runner-up-best-paper-awards/) (August 2017)
-- Paper accepted at KDD 2017 on ["DeepSD: Generating High Resolution Climate Change Projections through Single Image Super-Resolution"](https://www.kdd.org/kdd2017/papers/view/deepsd-generating-high-resolution-climate-change-projections-through-single) (April 2017)
+<p>(December 2019) Presented at the [AGU Fall Meeting](https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/608499) </p>
+<p>(August 2019) Pre-print posted, ["Optical Flow for Intermediate Frame Interpolation of Multispectral Geostationary Satellite Data"](https://arxiv.org/abs/1907.12013), on Arxiv </p>
+<p>(July 2019) Presented at the [Space Lidar Winds Working Group Meeting](https://winds-lidar-group.larc.nasa.gov/) at the National Institute of Aerospace </p>
+<p>(April 2019) Presented at the [1st Workshop on Leveraging AI in the Exploitation of Satellite Earth Observations & Numerical Weather Prediction](https://www.star.nesdis.noaa.gov/star/meeting_2019AIWorkshop.php). [slides](https://www.star.nesdis.noaa.gov/star/documents/meetings/2019AI/Wednesday/S2_3-3_NOAAai2019_Vandal.pptx) </p>
+<p>(August 2018) I joined the NASA Earth Exchange [(NEX)](https://www.nasa.gov/nex/team/) at Ames research center [[NEU News]](http://www.civ.neu.edu/news/sds-lab-phd-student-thomas-vandal-accepts-position-nasa-scientist) </p>
+<p>(July 2018) Our paper was invited for submission to the Sister's Best Paper Track at [IJCAI 2018](https://www.ijcai.org/proceedings/2018/759) </p>
+<p>(August 2018) Paper accepted to KDD 2018 research track on ["Quantifying Uncertainty in Discrete-Continuous and Skewed Data with Bayesian Deep Learning"](https://www.kdd.org/kdd2018/accepted-papers/view/quantifying-uncertainty-in-discrete-continuous-and-skewed-data-with-bayesia)</p>
+<p>(December 2017) Research is featured in the Nature comment article [The case for technology investments in the environment
+](https://www.nature.com/articles/d41586-017-08675-7)</p>
+<p>(August 2017) DeepSD won runner-up best paper and runner-up best student paper in the [applied data science track at KDD](https://www.kdd.org/kdd2017/accepted-papers),[[News]](https://knuth.coe.neu.edu/news/phd-student-ganguly-receive-runner-up-best-paper-awards/)</p>
+<p>(August 2017) Paper accepted at KDD 2017 on ["DeepSD: Generating High Resolution Climate Change Projections through Single Image Super-Resolution"](https://www.kdd.org/kdd2017/papers/view/deepsd-generating-high-resolution-climate-change-projections-through-single) </p>
 
 # Selected Publications
 

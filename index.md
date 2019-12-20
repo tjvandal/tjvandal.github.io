@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Thomas Vandal
+title: Thomas J. Vandal, Ph.D.
 role: Research Scientist
 affiliation: NASA Ames Research Center <br>Bay Area Environmental Research Institute <br> Moffett Field, CA 94035
 contact: vandal@baeri.org <br> thomas.vandal@nasa.gov <br> 
@@ -12,7 +12,7 @@ My research is at the intersection of machine learning, earth sciences, image pr
 
 # Bio
 
-Thomas is a research scientist at the NASA Ames Research Center and Bay Area Environmental Research Institute within the NASA Earth Exchange [(NEX)](https://www.nasa.gov/nex). In August 2018 Thomas earned a Ph.D. in Interdisciplinary Engineering from Northeastern University working in the [Sustainability and Data Sciences Lab](https://web.northeastern.edu/sds/) advised by Auroop Ganguly and Jennifer Dy. His [research](https://www.youtube.com/watch?v=DBYKfMTS23Q) has won [runner-up best paper and runner-up best student paper awards at SIGKDD 2017](https://www.kdd.org/awards/view/2017-sigkdd-best-paper-award-winners) and outstanding graduate researcher at Northeastern University in 2018.  He is an elected student member of the committee on [Artificial Intelligence Applications to Environmental Science for the American Meterological Society (AMS)](https://www.ametsoc.org/index.cfm/stac/committees/committee-on-artificial-intelligence-applications-to-environmental-science/membership/). Prior to graduate school he worked at multiple startups in the Boston area, including the MIT Media Lab spin-out Affectiva.  He completed his bachelors in mathematics at the University of Maryland College Park in 2012.
+Thomas is a research scientist at the NASA Ames Research Center and [Bay Area Environmental Research Institute](https://baeri.org/) within the NASA Earth Exchange [(NEX)](https://www.nasa.gov/nex)  in Moffett Field, CA. In August 2018 Thomas earned a Ph.D. in Interdisciplinary Engineering from Northeastern University working in the [Sustainability and Data Sciences Lab](https://web.northeastern.edu/sds/) advised by Auroop Ganguly and Jennifer Dy. His [research](https://www.youtube.com/watch?v=DBYKfMTS23Q) has won [runner-up best paper and runner-up best student paper awards at SIGKDD 2017](https://www.kdd.org/awards/view/2017-sigkdd-best-paper-award-winners) and outstanding graduate researcher at Northeastern University in 2018.  He is an elected student member of the committee on [Artificial Intelligence Applications to Environmental Science for the American Meterological Society (AMS)](https://www.ametsoc.org/index.cfm/stac/committees/committee-on-artificial-intelligence-applications-to-environmental-science/membership/). Prior to graduate school he worked at multiple startups in the Boston area, including the MIT Media Lab spin-out Affectiva.  He completed his bachelors in mathematics at the University of Maryland College Park in 2012.
 
 # Recent Work
 

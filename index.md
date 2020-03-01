@@ -16,8 +16,8 @@ Thomas is a research scientist at the NASA Ames Research Center and [Bay Area En
 
 # Recent Work
 
-<p>(March 2019) Pre-print posted ["Temporal Interpolation of Geostationary Satellite Imagery with Task Specific Optical Flow"](https://arxiv.org/abs/1907.12013). </p>
-<p>(January 2019) Presented at the [AMS Annual Meeting](https://ams.confex.com/ams/2020Annual/meetingapp.cgi/Paper/365320). </p>
+<p>(March 2020) Pre-print posted ["Temporal Interpolation of Geostationary Satellite Imagery with Task Specific Optical Flow"](https://arxiv.org/abs/1907.12013). </p>
+<p>(January 2020) Presented at the [AMS Annual Meeting](https://ams.confex.com/ams/2020Annual/meetingapp.cgi/Paper/365320). </p>
 <p>(December 2019) Presented at the [AGU Fall Meeting](https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/608499). </p>
 <p>(July 2019) Presented at the [Space Lidar Winds Working Group Meeting](https://winds-lidar-group.larc.nasa.gov/) at the National Institute of Aerospace.</p>
 <p>(April 2019) Presented at the [1st Workshop on Leveraging AI in the Exploitation of Satellite Earth Observations & Numerical Weather Prediction](https://www.star.nesdis.noaa.gov/star/meeting_2019AIWorkshop.php), [Slides](https://www.star.nesdis.noaa.gov/star/documents/meetings/2019AI/Wednesday/S2_3-3_NOAAai2019_Vandal.pptx).</p>
@@ -31,7 +31,7 @@ Thomas is a research scientist at the NASA Ames Research Center and [Bay Area En
 
 # Selected Publications
 
-**Vandal, T.** & Nemani, R. (2019). "Optical Flow for Intermediate Frame Interpolation of Multispectral Geostationary Satellite Data". [Arxiv Pre-print](https://arxiv.org/pdf/1907.12013.pdf)
+**Vandal, T.** & Nemani, R. (2020). "Temporal Interpolation of Geostationary Satellite Imagery with Task Specific Optical Flow". [Arxiv](https://arxiv.org/pdf/1907.12013.pdf)
 
 **Vandal, T.**, Kodra, E., Ganguly, S., Dy, J., Nemani, R., & Ganguly, A (2018): “Quantifying Uncertainty in Discrete-Continuous and Skewed Data with Bayesian Deep Learning,” Proceedings of the 24rd ACM **SIGKDD** Conference on Knowledge Discovery and Data Mining, 1663-1672. (Research Track, 18% acceptance rate)[Paper](https://www.kdd.org/kdd2018/accepted-papers/view/quantifying-uncertainty-in-discrete-continuous-and-skewed-data-with-bayesia), [Code](https://github.com/tjvandal/discrete-continuous-bdl).
 

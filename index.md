@@ -16,8 +16,9 @@ Thomas is a research scientist at the NASA Ames Research Center and [Bay Area En
 
 # Recent Work
 
+<p>(March 2019) Pre-print posted ["Temporal Interpolation of Geostationary Satellite Imagery with Task Specific Optical Flow"](https://arxiv.org/abs/1907.12013). </p>
+<p>(January 2019) Presented at the [AMS Annual Meeting](https://ams.confex.com/ams/2020Annual/meetingapp.cgi/Paper/365320). </p>
 <p>(December 2019) Presented at the [AGU Fall Meeting](https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/608499). </p>
-<p>(August 2019) Pre-print posted, ["Optical Flow for Intermediate Frame Interpolation of Multispectral Geostationary Satellite Data"](https://arxiv.org/abs/1907.12013), on Arxiv. </p>
 <p>(July 2019) Presented at the [Space Lidar Winds Working Group Meeting](https://winds-lidar-group.larc.nasa.gov/) at the National Institute of Aerospace.</p>
 <p>(April 2019) Presented at the [1st Workshop on Leveraging AI in the Exploitation of Satellite Earth Observations & Numerical Weather Prediction](https://www.star.nesdis.noaa.gov/star/meeting_2019AIWorkshop.php), [Slides](https://www.star.nesdis.noaa.gov/star/documents/meetings/2019AI/Wednesday/S2_3-3_NOAAai2019_Vandal.pptx).</p>
 <p>(August 2018) I joined the NASA Earth Exchange [(NEX)](https://www.nasa.gov/nex/team/) at Ames research center [[NEU News]](http://www.civ.neu.edu/news/sds-lab-phd-student-thomas-vandal-accepts-position-nasa-scientist). </p>

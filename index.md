@@ -12,10 +12,13 @@ My research is at the intersection of machine learning, earth sciences, image pr
 
 # Bio
 
-Thomas is a research scientist at the NASA Ames Research Center and [Bay Area Environmental Research Institute](https://baeri.org/) within the NASA Earth Exchange [(NEX)](https://www.nasa.gov/nex)  in Moffett Field, CA. In August 2018 Thomas earned a Ph.D. in Interdisciplinary Engineering from Northeastern University working in the [Sustainability and Data Sciences Lab](https://web.northeastern.edu/sds/) advised by Auroop Ganguly and Jennifer Dy. His [research](https://www.youtube.com/watch?v=DBYKfMTS23Q) has won [runner-up best paper and runner-up best student paper awards at SIGKDD 2017](https://www.kdd.org/awards/view/2017-sigkdd-best-paper-award-winners) and outstanding graduate researcher at Northeastern University in 2018.  He is an elected student member of the committee on [Artificial Intelligence Applications to Environmental Science for the American Meterological Society (AMS)](https://www.ametsoc.org/index.cfm/stac/committees/committee-on-artificial-intelligence-applications-to-environmental-science/membership/). Prior to graduate school he worked at multiple startups in the Boston area, including the MIT Media Lab spin-out Affectiva.  He completed his bachelors in mathematics at the University of Maryland College Park in 2012.
+Thomas is a research scientist at the NASA Ames Research Center and [Bay Area Environmental Research Institute](https://baeri.org/) within the NASA Earth Exchange [(NEX)](https://www.nasa.gov/nex) in Moffett Field, CA. In August 2018 Thomas earned a Ph.D. in Interdisciplinary Engineering from Northeastern University working in the [Sustainability and Data Sciences Lab](https://web.northeastern.edu/sds/) advised by Auroop Ganguly. His [research](https://www.youtube.com/watch?v=DBYKfMTS23Q) has won [runner-up best paper and runner-up best student paper awards at SIGKDD 2017](https://www.kdd.org/awards/view/2017-sigkdd-best-paper-award-winners) and outstanding graduate researcher at Northeastern University in 2018.  He was an elected student member of the committee on [Artificial Intelligence Applications to Environmental Science for the American Meterological Society (AMS)](https://www.ametsoc.org/index.cfm/stac/committees/committee-on-artificial-intelligence-applications-to-environmental-science/membership/). Prior to graduate school he worked at multiple startups in the Boston area, including the MIT Media Lab spin-out Affectiva.  He completed his bachelors in mathematics at the University of Maryland College Park in 2012.
 
 # Recent Work
 
+<p>(May 2020) Paper accepted to KDD 2020 research track titled "High-Dimensional Similarity Search with Quantum-Assisted Variational Autoencoder"</p>
+<p>(May 2020) Proposal funded by NASA's ROSES program for research on Operational Geostationary Satellite Systems to develop optical flow methods for cloud tracking. [Selections](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7bA786F499-3D4A-1B30-2620-945ACCF3360C%7d&path=&method=init). </p>
+<p>(May 2020) Journal paper on Data science and food security published in Frontiers Sustainable Food Systems [Paper](https://www.frontiersin.org/articles/10.3389/fsufs.2020.00052/full).</p>
 <p>(March 2020) Pre-print posted ["Temporal Interpolation of Geostationary Satellite Imagery with Task Specific Optical Flow"](https://arxiv.org/abs/1907.12013). </p>
 <p>(January 2020) Presented at the [AMS Annual Meeting](https://ams.confex.com/ams/2020Annual/meetingapp.cgi/Paper/365320). </p>
 <p>(December 2019) Presented at the [AGU Fall Meeting](https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/608499). </p>
@@ -31,7 +34,9 @@ Thomas is a research scientist at the NASA Ames Research Center and [Bay Area En
 
 # Selected Publications
 
-**Vandal, T.** & Nemani, R. (2020). "Temporal Interpolation of Geostationary Satellite Imagery with Task Specific Optical Flow". [Arxiv](https://arxiv.org/pdf/1907.12013.pdf)
+[preprint] **Vandal, T.** & Nemani, R. (2020). "Temporal Interpolation of Geostationary Satellite Imagery with Task Specific Optical Flow". [Arxiv](https://arxiv.org/pdf/1907.12013.pdf)
+
+Gao, N., Wilson, M., **Vandal, T.**, Vinci, W., Nemani, R., & Rieffel, E. "High-Dimensional Similarity Search with Quantum-Assisted Variational Autoencoder," Proceedings of the 26th ACM **SIGKDD** Conference on Knowledge Discovery and Data Mining (Research Track, 16% acceptance rate). [Link coming]
 
 **Vandal, T.**, Kodra, E., Ganguly, S., Dy, J., Nemani, R., & Ganguly, A (2018): “Quantifying Uncertainty in Discrete-Continuous and Skewed Data with Bayesian Deep Learning,” Proceedings of the 24rd ACM **SIGKDD** Conference on Knowledge Discovery and Data Mining, 1663-1672. (Research Track, 18% acceptance rate)[Paper](https://www.kdd.org/kdd2018/accepted-papers/view/quantifying-uncertainty-in-discrete-continuous-and-skewed-data-with-bayesia), [Code](https://github.com/tjvandal/discrete-continuous-bdl).
 

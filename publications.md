@@ -12,8 +12,6 @@ featured-img: assets/images/earth-wide.jpg
 
 ## Preprints
 
-**Vandal, T.** & Nemani, R. (2019). "Optical Flow for Intermediate Frame Interpolation of Multispectral Geostationary Satellite Data". [Arxiv](https://arxiv.org/pdf/1907.12013.pdf).
-
 Wilson, M., **Vandal, T.**, Hogg, T., & Rieffel, E. (2019). "Quantum-assisted associative network: Applying quantum annealing in deep learning". [Arxiv](https://arxiv.org/pdf/1904.10573.pdf).
 
 Duffy, K., **Vandal, T.**, Wang, W., Nemani, R., & Ganguly, A. R. (2019). Deep Learning Emulation of Multi-Angle Implementation of Atmospheric Correction (MAIAC). arXiv preprint arXiv:1910.13408. [Arxiv](https://arxiv.org/pdf/1910.13408).
@@ -43,6 +41,8 @@ Duff, K., **Vandal, T.**, Li, S., Ganguly, S., Nemani, R., & Ganguly, A., "DeepE
 **Vandal, T.**, E. Kodra, and A. Ganguly, “Intercomparison of Machine Learning Methods for Statistical Downscaling: The Case of Daily and Extreme Precipitation.” *Theoretical and Applied Climatology*. September 2018. [Paper](https://link.springer.com/article/10.1007/s00704-018-2613-3).
 
 ## Workshop Papers
+
+**Vandal, T.** & Nemani, R. (2020). "Optical Flow for Intermediate Frame Interpolation of Multispectral Geostationary Satellite Data". In Proceedings of 1st ACM SIGKDD Workshop on Deep Learning for Spatiotemporal Data, Applications, and Systems (DeepSpatial ’20). [Paper](http://mason.gmu.edu/~lzhao9/venues/DeepSpatial2020/papers/DeepSpatial_paper_6_camera_ready.pdf).
 
 Duffy, K., **Vandal, T.**, Li, S., Ganguly, S., Nemani, R. & Ganguly, A. (2019). "DeepEmSat: Deep Emulation of Satellite Data Mining", SIGKDD workshop on Fragile Earth: Theory Guided Data Science to Enhance Scientific Discovery. 
 

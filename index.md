@@ -16,7 +16,8 @@ Thomas is a research scientist at the [NASA Ames Research Center](https://www.na
 
 # Recent Work
 
-<p>(May 2020) Paper accepted to KDD 2020 research track titled "High-Dimensional Similarity Search with Quantum-Assisted Variational Autoencoder" [arXiv](https://arxiv.org/pdf/2006.07680.pdf)</p>
+<p>(August 2020) Awarded best spotlight presentation at [1st ACM SIGKDD Workshop on Deep Learning for Spatiotemporal Data, Applications, and Systems](http://mason.gmu.edu/~lzhao9/venues/DeepSpatial2020/).
+<p>(May 2020) Paper accepted to KDD 2020 research track titled "High-Dimensional Similarity Search with Quantum-Assisted Variational Autoencoder" [Paper](https://www.kdd.org/kdd2020/accepted-papers/view/high-dimensional-similarity-search-with-quantum-assisted-variational-autoen)</p>
 <p>(May 2020) NASA ROSES proposal selected by to develop optical flow methods for tracking atmospheric motion. [Selections](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7bA786F499-3D4A-1B30-2620-945ACCF3360C%7d&path=&method=init). </p>
 <p>(May 2020) Journal paper on Data science and food security published in Frontiers Sustainable Food Systems [Paper](https://www.frontiersin.org/articles/10.3389/fsufs.2020.00052/full).</p>
 <p>(March 2020) Pre-print posted ["Temporal Interpolation of Geostationary Satellite Imagery with Task Specific Optical Flow"](https://arxiv.org/abs/1907.12013). </p>
@@ -32,9 +33,11 @@ Thomas is a research scientist at the [NASA Ames Research Center](https://www.na
 
 # Selected Publications
 
-[preprint] **Vandal, T.** & Nemani, R. (2020). "Temporal Interpolation of Geostationary Satellite Imagery with Task Specific Optical Flow". [Arxiv](https://arxiv.org/pdf/1907.12013.pdf)
+[preprint] **Vandal, T.**, McDuff, D., Wang, W., Michaelis, A., & Nemani, R. "Spectral Synthesis for Satellite-to-Satellite Translation". [arXiv](https://arxiv.org/abs/2010.06045")
 
-Gao, N., Wilson, M., **Vandal, T.**, Vinci, W., Nemani, R., & Rieffel, E. "High-Dimensional Similarity Search with Quantum-Assisted Variational Autoencoder," Proceedings of the 26th ACM **SIGKDD** Conference on Knowledge Discovery and Data Mining (Research Track, 16% acceptance rate). [Link coming]
+[preprint] **Vandal, T.** & Nemani, R. (2020). "Temporal Interpolation of Geostationary Satellite Imagery with Task Specific Optical Flow". [arXiv](https://arxiv.org/pdf/1907.12013.pdf) [DeepSpatial Workshop at KDD 2020](http://mason.gmu.edu/~lzhao9/venues/DeepSpatial2020/papers/DeepSpatial_paper_6_camera_ready.pdf)
+
+Gao, N., Wilson, M., **Vandal, T.**, Vinci, W., Nemani, R., & Rieffel, E. "High-Dimensional Similarity Search with Quantum-Assisted Variational Autoencoder," Proceedings of the 26th ACM **SIGKDD** Conference on Knowledge Discovery and Data Mining (Research Track, 16% acceptance rate). [Paper](https://www.kdd.org/kdd2020/accepted-papers/view/high-dimensional-similarity-search-with-quantum-assisted-variational-autoen)
 
 **Vandal, T.**, Kodra, E., Ganguly, S., Dy, J., Nemani, R., & Ganguly, A (2018): “Quantifying Uncertainty in Discrete-Continuous and Skewed Data with Bayesian Deep Learning,” Proceedings of the 24rd ACM **SIGKDD** Conference on Knowledge Discovery and Data Mining, 1663-1672. (Research Track, 18% acceptance rate)[Paper](https://www.kdd.org/kdd2018/accepted-papers/view/quantifying-uncertainty-in-discrete-continuous-and-skewed-data-with-bayesia), [Code](https://github.com/tjvandal/discrete-continuous-bdl).
 

@@ -12,15 +12,20 @@ featured-img: assets/images/earth-wide.jpg
 
 ## Preprints
 
-**Vandal, T.** & Nemani, R. (2019). "Optical Flow for Intermediate Frame Interpolation of Multispectral Geostationary Satellite Data". [Arxiv](https://arxiv.org/pdf/1907.12013.pdf).
+**Vandal, T.**, McDuff, D., Wang, W., Michaelis, A., & Nemani, R (2020). "Spectral Synthesis for Satellite-to-Satellite Translation". [arXiv](https://arxiv.org/abs/2010.06045")
 
-Wilson, M., **Vandal, T.**, Hogg, T., & Rieffel, E. (2019). "Quantum-assisted associative network: Applying quantum annealing in deep learning". [Arxiv](https://arxiv.org/pdf/1904.10573.pdf).
+**Vandal, T.** & Nemani, R. (2019). "Optical Flow for Intermediate Frame Interpolation of Multispectral Geostationary Satellite Data". [arXiv](https://arxiv.org/pdf/1907.12013.pdf).
 
-Duffy, K., **Vandal, T.**, Wang, W., Nemani, R., & Ganguly, A. R. (2019). Deep Learning Emulation of Multi-Angle Implementation of Atmospheric Correction (MAIAC). arXiv preprint arXiv:1910.13408. [Arxiv](https://arxiv.org/pdf/1910.13408).
+Wilson, M., **Vandal, T.**, Hogg, T., & Rieffel, E. (2019). "Quantum-assisted associative network: Applying quantum annealing in deep learning". [arXiv](https://arxiv.org/pdf/1904.10573.pdf).
+
+Duffy, K., **Vandal, T.**, Wang, W., Nemani, R., & Ganguly, A. R. (2019). Deep Learning Emulation of Multi-Angle Implementation of Atmospheric Correction (MAIAC). arXiv preprint arXiv:1910.13408. [arXiv](https://arxiv.org/pdf/1910.13408).
 
 ## Conference Papers
 
-Gao, N., Wilson, M., **Vandal, T.**, Vinci, W., Nemani, R., & Rieffel, E. "High-Dimensional Similarity Search with Quantum-Assisted Variational Autoencoder," Proceedings of the 26th ACM **SIGKDD** Conference on Knowledge Discovery and Data Mining (Research Track, 16% acceptance rate). [Link coming]
+Gao, N., Wilson, M., **Vandal, T.**, Vinci, W., Nemani, R., & Rieffel, E. "High-Dimensional Similarity Search with Quantum-Assisted Variational Autoencoder," Proceedings of the 26th ACM **SIGKDD** Conference on Knowledge Discovery and Data Mining (Research Track, 16% acceptance rate). [Paper](https://www.kdd.org/kdd2020/accepted-papers/view/high-dimensional-similarity-search-with-quantum-assisted-variational-autoen)
+
+Nemani, R., Wang, W., Hshimoto, H., Michaelis, A., **Vandal, T.**, .. (2020). “GeoNEX: A geostationary earth observatory at NASA Earth eXchange: Earth monitoring from operational geostationary satellite systems.” IEEE International Geoscience and Remote Sensing Symposium. [Paper](https://igarss2020.org/view_paper.php?PaperNum=1427)
+
 
 **Vandal, T.**, Kodra, E., Ganguly, S., Dy, J., Nemani, R., & Ganguly, A (2018): “Quantifying Uncertainty in Discrete-Continuous and Skewed Data with Bayesian Deep Learning,” Proceedings of the 24rd ACM **SIGKDD** Conference on Knowledge Discovery and Data Mining, 1663-1672. (Research Track, 18% acceptance rate). [Paper](https://www.kdd.org/kdd2018/accepted-papers/view/quantifying-uncertainty-in-discrete-continuous-and-skewed-data-with-bayesia), [Code](https://github.com/tjvandal/discrete-continuous-bdl).
 
@@ -43,6 +48,9 @@ Duff, K., **Vandal, T.**, Li, S., Ganguly, S., Nemani, R., & Ganguly, A., "DeepE
 **Vandal, T.**, E. Kodra, and A. Ganguly, “Intercomparison of Machine Learning Methods for Statistical Downscaling: The Case of Daily and Extreme Precipitation.” *Theoretical and Applied Climatology*. September 2018. [Paper](https://link.springer.com/article/10.1007/s00704-018-2613-3).
 
 ## Workshop Papers
+
+**Vandal, T.** & Nemani, R. (2020). “Optical Flow for Intermediate Frame Interpolation of Multispectral Geostationary Satellite Data”.  1st ACM SIGKDD Workshop on Deep Learning for Spatiotemporal Data,
+Applications, and Systems (Best Spotlight Presentation).
 
 Duffy, K., **Vandal, T.**, Li, S., Ganguly, S., Nemani, R. & Ganguly, A. (2019). "DeepEmSat: Deep Emulation of Satellite Data Mining", SIGKDD workshop on Fragile Earth: Theory Guided Data Science to Enhance Scientific Discovery. 
 

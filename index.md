@@ -35,7 +35,8 @@ Thomas is a research scientist at the [NASA Ames Research Center](https://www.na
 
 [preprint] **Vandal, T.**, McDuff, D., Wang, W., Michaelis, A., & Nemani, R. "Spectral Synthesis for Satellite-to-Satellite Translation". [arXiv](https://arxiv.org/abs/2010.06045")
 
-[preprint] **Vandal, T.** & Nemani, R. (2020). "Temporal Interpolation of Geostationary Satellite Imagery with Task Specific Optical Flow". [arXiv](https://arxiv.org/pdf/1907.12013.pdf) [DeepSpatial Workshop at KDD 2020](http://mason.gmu.edu/~lzhao9/venues/DeepSpatial2020/papers/DeepSpatial_paper_6_camera_ready.pdf)
+**Vandal, T.** & Nemani, R. (2020). “Optical Flow for Intermediate Frame Interpolation of Multispectral Geostationary Satellite Data”. In Proceedings of 1st ACM SIGKDD Workshop on Deep Learning for Spatiotemporal Data, Applications, and Systems (DeepSpatial ’20). [paper](http://mason.gmu.edu/~lzhao9/venues/DeepSpatial2020/papers/DeepSpatial_paper_6_camera_ready.pdf)
+
 
 Gao, N., Wilson, M., **Vandal, T.**, Vinci, W., Nemani, R., & Rieffel, E. "High-Dimensional Similarity Search with Quantum-Assisted Variational Autoencoder," Proceedings of the 26th ACM **SIGKDD** Conference on Knowledge Discovery and Data Mining (Research Track, 16% acceptance rate). [Paper](https://www.kdd.org/kdd2020/accepted-papers/view/high-dimensional-similarity-search-with-quantum-assisted-variational-autoen)
 

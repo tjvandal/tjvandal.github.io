@@ -5,7 +5,7 @@ description:
 ---
 
 ## Searching for Science Insights with Computing
-03/06/2021
+03/26/2021
 
 ![alt text](assets/images/blog-001-ai.jpg )
 Image from Duke AI, <a href='https://www.cs.duke.edu/research/artificialintelligence'>https://www.cs.duke.edu/research/artificialintelligence</a>

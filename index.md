@@ -8,7 +8,7 @@ description: Machine Learning, Data Science, and Earth Sciences
 
 ---
 
-My research is at the intersection of machine learning, computer vision, earth sciences, and high-performance computing. I am interested in machine learning applications to our leveraging ever growing datastores of spatio-temporal earth science observations, forecasts, and projections to understand our environment. Recent projects have included developments of novel deep learning methods for spatio-temporal downscaling, physical model emulation, generating virtual sensors, and cloud tracking. 
+My research is at the intersection of machine learning, computer vision, earth sciences, and high-performance computing. I am interested in machine learning applications to our ever growing datastores of spatio-temporal earth science observations, forecasts, and projections to understand our environment. Recent projects have included developments of novel deep learning methods for spatio-temporal downscaling, physical model emulation, generating virtual sensors, and cloud tracking. 
 
 # Bio
 

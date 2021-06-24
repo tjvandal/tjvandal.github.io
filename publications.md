@@ -12,11 +12,7 @@ featured-img: assets/images/earth-wide.jpg
 
 ## Preprints
 
-**Vandal, T.**, McDuff, D., Wang, W., Michaelis, A., & Nemani, R (2020). "Spectral Synthesis for Satellite-to-Satellite Translation". [arXiv](https://arxiv.org/abs/2010.06045")
-
 **Vandal, T.** & Nemani, R. (2019). "Optical Flow for Intermediate Frame Interpolation of Multispectral Geostationary Satellite Data". [arXiv](https://arxiv.org/pdf/1907.12013.pdf).
-
-Wilson, M., **Vandal, T.**, Hogg, T., & Rieffel, E. (2019). "Quantum-assisted associative network: Applying quantum annealing in deep learning". [arXiv](https://arxiv.org/pdf/1904.10573.pdf).
 
 Duffy, K., **Vandal, T.**, Wang, W., Nemani, R., & Ganguly, A. R. (2019). Deep Learning Emulation of Multi-Angle Implementation of Atmospheric Correction (MAIAC). arXiv preprint arXiv:1910.13408. [arXiv](https://arxiv.org/pdf/1910.13408).
 
@@ -39,7 +35,11 @@ Nemani, R., Wang, W., Hshimoto, H., Michaelis, A., **Vandal, T.**, .. (2020). â€
 
 ## Journal Publications
 
-Konduri, V., **Vandal, T.**, Ganguly, S., & Ganguly, A. R. (2020). Data Science for Weather Impacts on Crop Yield. Frontiers in Sustainable Food Systems, 4, 52. [link](https://www.frontiersin.org/articles/10.3389/fsufs.2020.00052/full)
+**Vandal, T.**, McDuff, D., Wang, W., Duffy, K., Michaelis, A., & Nemani, R. (2021) "Spectral Synthesis for Geostationary Satellite-to-Satellite Translation". IEEE Transactions on Geoscience and Remote Sensing. [Paper](https://ieeexplore.ieee.org/document/9462910)
+
+Wilson, M., **Vandal, T.**, Hogg, T., & Rieffel, E. (2021). "Quantum-assisted associative network: Applying quantum annealing in deep learning". Quantum Machine Intelligence [Paper](https://link.springer.com/article/10.1007/s42484-021-00047-9).
+
+Konduri, V., **Vandal, T.**, Ganguly, S., & Ganguly, A. R. (2020). Data Science for Weather Impacts on Crop Yield. Frontiers in Sustainable Food Systems, 4, 52. [Paper](https://www.frontiersin.org/articles/10.3389/fsufs.2020.00052/full)
 
 Li, S., Wang, W., Hashimoto, H., Xiong, J., **Vandal, T.**, Yao, J., Qian, L., Ichii, K., Lyapustin, A., Wang, Y., & Nemani, R., "First Provisional Land Surface Reflectance Product from Geostationary Satellite Himawari-8 AHI". *Remote Sensing*. December 12 2019. [DOI](https://doi.org/10.3390/rs11242990).
 

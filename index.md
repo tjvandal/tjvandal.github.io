@@ -16,7 +16,7 @@ Thomas is a research scientist at the [NASA Ames Research Center](https://www.na
 
 # Recent Work
 
-<p>(June 2021) Paper titled "Spectral Synthesis for Geostationary Satellite-to-Satellite Translation" published in TGRS [Paper](https://ieeexplore.ieee.org/document/9462910).
+<p>(June 2021) Paper titled "Spectral Synthesis for Geostationary Satellite-to-Satellite Translation" published in TGRS [Paper](https://ieeexplore.ieee.org/document/9462910).</p>
 <p>(August 2020) Awarded best spotlight presentation at [1st ACM SIGKDD Workshop on Deep Learning for Spatiotemporal Data, Applications, and Systems](http://mason.gmu.edu/~lzhao9/venues/DeepSpatial2020/).</p>
 <p>(May 2020) Paper accepted to KDD 2020 research track titled "High-Dimensional Similarity Search with Quantum-Assisted Variational Autoencoder" [Paper](https://www.kdd.org/kdd2020/accepted-papers/view/high-dimensional-similarity-search-with-quantum-assisted-variational-autoen)</p>
 <p>(May 2020) NASA ROSES proposal selected by to develop optical flow methods for tracking atmospheric motion. [Selections](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7bA786F499-3D4A-1B30-2620-945ACCF3360C%7d&path=&method=init). </p>

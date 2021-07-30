@@ -12,8 +12,6 @@ featured-img: assets/images/earth-wide.jpg
 
 ## Preprints
 
-**Vandal, T.** & Nemani, R. (2019). "Optical Flow for Intermediate Frame Interpolation of Multispectral Geostationary Satellite Data". [arXiv](https://arxiv.org/pdf/1907.12013.pdf).
-
 Duffy, K., **Vandal, T.**, Wang, W., Nemani, R., & Ganguly, A. R. (2019). Deep Learning Emulation of Multi-Angle Implementation of Atmospheric Correction (MAIAC). arXiv preprint arXiv:1910.13408. [arXiv](https://arxiv.org/pdf/1910.13408).
 
 ## Conference Papers
@@ -34,6 +32,8 @@ Nemani, R., Wang, W., Hshimoto, H., Michaelis, A., **Vandal, T.**, .. (2020). �
 **Vandal, T.**, McDuff, D., & Kaliouby, R. (2015), “Event Detection : Ultra Large-scale Clustering of Facial Expressions.” 11th IEEE *International Conference on Automatic Face and Gesture Recognition*, Ljubljana, Slovenia. [Paper](http://www.affectiva.com/wp-content/uploads/2017/03/Event-Detection-Ultra-Large-scale-Clustering-of-Facial-Expressions.pdf).
 
 ## Journal Publications
+
+**Vandal, T.** & Nemani, R. (2021). "Optical Flow for Intermediate Frame Interpolation of Multispectral Geostationary Satellite Data". IEE Transactions on Neural Network and Learning Systems (TNNLS). Special issue on Special Issue on Deep Learning for Earth and Planetary Geosciences. [Link to come]
 
 **Vandal, T.**, McDuff, D., Wang, W., Duffy, K., Michaelis, A., & Nemani, R. (2021) "Spectral Synthesis for Geostationary Satellite-to-Satellite Translation". IEEE Transactions on Geoscience and Remote Sensing. [Paper](https://ieeexplore.ieee.org/document/9462910)
 

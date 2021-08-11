@@ -16,25 +16,17 @@ Thomas is a research scientist at the [NASA Ames Research Center](https://www.na
 
 # Recent Work
 
+<p>(August 2021) Paper titled "Temporal Interpolation of Geostationary Satellite Imagery With Optical Flow" published in TNNLS Special Issue on Deep Learning in Earth and Planetary Geosciences [[Paper]](https://ieeexplore.ieee.org/document/9462910).</p>
+<p>(August 2021) Presented at the Asia Oceania Geosciences Society (AOGS).</p>
 <p>(June 2021) Paper titled "Spectral Synthesis for Geostationary Satellite-to-Satellite Translation" published in TGRS [Paper](https://ieeexplore.ieee.org/document/9462910).</p>
 <p>(August 2020) Awarded best spotlight presentation at [1st ACM SIGKDD Workshop on Deep Learning for Spatiotemporal Data, Applications, and Systems](http://mason.gmu.edu/~lzhao9/venues/DeepSpatial2020/).</p>
 <p>(May 2020) Paper accepted to KDD 2020 research track titled "High-Dimensional Similarity Search with Quantum-Assisted Variational Autoencoder" [Paper](https://www.kdd.org/kdd2020/accepted-papers/view/high-dimensional-similarity-search-with-quantum-assisted-variational-autoen)</p>
 <p>(May 2020) NASA ROSES proposal selected by to develop optical flow methods for tracking atmospheric motion. [Selections](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7bA786F499-3D4A-1B30-2620-945ACCF3360C%7d&path=&method=init). </p>
 <p>(May 2020) Journal paper on Data science and food security published in Frontiers Sustainable Food Systems [Paper](https://www.frontiersin.org/articles/10.3389/fsufs.2020.00052/full).</p>
-<p>(March 2020) Pre-print posted ["Temporal Interpolation of Geostationary Satellite Imagery with Task Specific Optical Flow"](https://arxiv.org/abs/1907.12013). </p>
-<p>(July 2019) Presented at the [Space Lidar Winds Working Group Meeting](https://winds-lidar-group.larc.nasa.gov/) at the National Institute of Aerospace.</p>
-<p>(April 2019) Presented at the [1st Workshop on Leveraging AI in the Exploitation of Satellite Earth Observations & Numerical Weather Prediction](https://www.star.nesdis.noaa.gov/star/meeting_2019AIWorkshop.php), [Slides](https://www.star.nesdis.noaa.gov/star/documents/meetings/2019AI/Wednesday/S2_3-3_NOAAai2019_Vandal.pptx).</p>
-<p>(August 2018) I joined the NASA Earth Exchange [(NEX)](https://www.nasa.gov/nex/team/) at Ames research center [[NEU News]](http://www.civ.neu.edu/news/sds-lab-phd-student-thomas-vandal-accepts-position-nasa-scientist). </p>
-<p>(July 2018) Our paper was invited for submission to the Sister's Best Paper Track at [IJCAI 2018](https://www.ijcai.org/proceedings/2018/759). </p>
-<p>(August 2018) Paper accepted to KDD 2018 research track on ["Quantifying Uncertainty in Discrete-Continuous and Skewed Data with Bayesian Deep Learning"](https://www.kdd.org/kdd2018/accepted-papers/view/quantifying-uncertainty-in-discrete-continuous-and-skewed-data-with-bayesia).</p>
-<p>(December 2017) Research is featured in the Nature comment article [The case for technology investments in the environment
-](https://www.nature.com/articles/d41586-017-08675-7).</p>
-<p>(August 2017) DeepSD won runner-up best paper and runner-up best student paper in the [applied data science track at KDD](https://www.kdd.org/kdd2017/accepted-papers),[NEU](https://knuth.coe.neu.edu/news/phd-student-ganguly-receive-runner-up-best-paper-awards/).</p>
-<p>(August 2017) Paper accepted at KDD 2017 on [DeepSD: Generating High Resolution Climate Change Projections through Single Image Super-Resolution](https://www.kdd.org/kdd2017/papers/view/deepsd-generating-high-resolution-climate-change-projections-through-single). </p>
 
 # Selected Publications
 
-**Vandal, T.** & Nemani, R. (2021). "Optical Flow for Intermediate Frame Interpolation of Multispectral Geostationary Satellite Data". IEE Transactions on Neural Network and Learning Systems (TNNLS). Special issue on Special Issue on Deep Learning for Earth and Planetary Geosciences. [Link to come]
+**Vandal, T.** & Nemani, R. (2021). "Optical Flow for Intermediate Frame Interpolation of Multispectral Geostationary Satellite Data". IEE Transactions on Neural Network and Learning Systems (TNNLS). Special issue on Special Issue on Deep Learning for Earth and Planetary Geosciences. [[Paper]](https://ieeexplore.ieee.org/document/9511282) [[Code]](https://github.com/tjvandal/geostationary-superslomo) [[Video]](https://www.youtube.com/watch?v=NeMXPQw3CJU&ab_channel=ThomasVandal).
 
 **Vandal, T.**, McDuff, D., Wang, W., Duffy, K., Michaelis, A., & Nemani, R. (2021) "Spectral Synthesis for Geostationary Satellite-to-Satellite Translation". IEEE Transactions on Geoscience and Remote Sensing. [Paper](https://ieeexplore.ieee.org/document/9462910)
 

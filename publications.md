@@ -33,7 +33,7 @@ Nemani, R., Wang, W., Hshimoto, H., Michaelis, A., **Vandal, T.**, .. (2020). â€
 
 ## Journal Publications
 
-**Vandal, T.** & Nemani, R. (2021). "Optical Flow for Intermediate Frame Interpolation of Multispectral Geostationary Satellite Data". IEE Transactions on Neural Network and Learning Systems (TNNLS). Special issue on Special Issue on Deep Learning for Earth and Planetary Geosciences. [Link to come]
+**Vandal, T.** & Nemani, R. (2021). "Optical Flow for Intermediate Frame Interpolation of Multispectral Geostationary Satellite Data". IEE Transactions on Neural Network and Learning Systems (TNNLS). Special issue on Special Issue on Deep Learning for Earth and Planetary Geosciences. [[Paper]](https://ieeexplore.ieee.org/document/9511282) [[Code]](https://github.com/tjvandal/geostationary-superslomo) [[Video]](https://www.youtube.com/watch?v=NeMXPQw3CJU&ab_channel=ThomasVandal).
 
 **Vandal, T.**, McDuff, D., Wang, W., Duffy, K., Michaelis, A., & Nemani, R. (2021) "Spectral Synthesis for Geostationary Satellite-to-Satellite Translation". IEEE Transactions on Geoscience and Remote Sensing. [Paper](https://ieeexplore.ieee.org/document/9462910)
 

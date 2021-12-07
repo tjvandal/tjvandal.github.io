@@ -43,7 +43,7 @@ Konduri, V., **Vandal, T.**, Ganguly, S., & Ganguly, A. R. (2020). Data Science 
 
 Li, S., Wang, W., Hashimoto, H., Xiong, J., **Vandal, T.**, Yao, J., Qian, L., Ichii, K., Lyapustin, A., Wang, Y., & Nemani, R., "First Provisional Land Surface Reflectance Product from Geostationary Satellite Himawari-8 AHI". *Remote Sensing*. December 12 2019. [DOI](https://doi.org/10.3390/rs11242990).
 
-Duff, K., **Vandal, T.**, Li, S., Ganguly, S., Nemani, R., & Ganguly, A., "DeepEmSat: Deep Emulation for Satellite Data Mining." *Frontiers in Big Data*. December 10 2019. [Paper](https://www.frontiersin.org/articles/10.3389/fdata.2019.00042/full).
+Duffy, K., **Vandal, T.**, Li, S., Ganguly, S., Nemani, R., & Ganguly, A., "DeepEmSat: Deep Emulation for Satellite Data Mining." *Frontiers in Big Data*. December 10 2019. [Paper](https://www.frontiersin.org/articles/10.3389/fdata.2019.00042/full).
 
 **Vandal, T.**, E. Kodra, and A. Ganguly, “Intercomparison of Machine Learning Methods for Statistical Downscaling: The Case of Daily and Extreme Precipitation.” *Theoretical and Applied Climatology*. September 2018. [Paper](https://link.springer.com/article/10.1007/s00704-018-2613-3).
 
@@ -65,6 +65,30 @@ Li, Y., Chang, Y., **Vandal, T.**,  Das, D., Ding, A., Ganguly,  A., & Dy, J. (2
 **Vandal, T.**,  Bhatia, U., and Ganguly, A. (2017), “Statistical Downscaling in Climate with State of the Art Scalable Machine Learning.” Large-Scale Machine Learning in the Earth Sciences. Taylor & Francis. [Chapter](https://www.taylorfrancis.com/books/e/9781315371740/chapters/10.4324/9781315371740-4)
 
 ## Conference Poster Presentations
+
+**Vandal. T**, Duffy, K, McCarty, W., Sewnath, A., Das, P., Michaelis, A., and Nemani, R. (2022) Deep Learning System for Efficient Processing of Geostationary Satellite Imagery. 21th Conference on Artificial Intelligence for Environmental Science, AMS Winter Meeting, Houston, TX.
+
+Duffy, K., **Vandal, T.**, and Nemani, R. (2022). “LEO sensor to GEO sensor algorithm transfer models for land surface temperature”. 21th Conference on Artificial Intelligence for Environmental Science, AMS Winter Meeting, Houston, TX.
+
+**Vandal, T.** (2021). “GeoNEX-ML: A Machine Learning System for Earth Observations.” (Invited) Indian Symposium on Machine Learning, Virtual.
+
+**Vandal, T.** (2021) “Physics Guided Optical Flow for Tracking Atmospheric Motion” (Invited). American Geophysical Union Fall Meeting. New Orleans, LA.
+
+Duffy, K., **Vandal, T.**, and Nemani, R. (2021) “Communicating metrics of land surface temperature variability using multi-sensor machine learning”. American Geophysical Union Fall Meeting. New Orleans, LA.
+
+Yadav, N., **Vandal, T.**, Duffy, K., and Nemani, R. (2021). Physics-Guided Deep Learning for Quantitative Precipitation Nowcasting. American Geophysical Union Fall Meeting. New Orleans, LA.
+
+Das, P., **Vandal, T.**, Duffy, K., and Ganguly, R. (2021). “Uncertainty Aware Machine Learning based Quantitative Precipitation Estimation from Geostationary Satellites.” American Geophysical Union Fall Meeting. New Orleans, LA.
+
+**Vandal, T.** (2021) “Virtual Sensing with Unsupervised Image-to-Image Translation”. 20th Conference on Artificial Intelligence for Environmental Science, AMS Winter Meeting, Virtual.
+
+**Vandal, T.** (2021) “Towards Physics Guided Optical Flow for Tracking Atmospheric Motion”. Asia Oceania Geosciences Society, Virtual. 
+
+**Vandal, T. (2021)** “GeoNEX-ML: A Machine Learning System for Geostationary Satellite Imagery” at 3rd NOAA Workshop on Leveraging AI in Environmental Sciences, Virtual.
+
+**Vandal, T.** & Nemani, R. (2020). “Optical Flow for Intermediate Frame Interpolation of Multispectral Geostationary Satellite Data”.  19th Conference on Artificial Intelligence for Environmental Science, AMS Winter Meeting. Boston, MA.
+
+Park, T., Wang, W., Hashimoto, H., **Vandal, T.**, Dungan, J. L., Wang, Y., ... & Nemani, R. R. (2020, December). Generation of land surface reflectance with combined Geo-KOMPSAT-2A AMI and Himawari 8 AHI observations. In AGU Fall Meeting Abstracts (Vol. 2020, pp. A008-0016).
 
 **Vandal, T.**, Nemani, R. R., Wang, W., & Li, S. (2019, December). Transfer Learning to Generate True Color Images from GOES-16. In AGU Fall Meeting 2019. [AGU](https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/608499).
 

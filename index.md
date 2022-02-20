@@ -14,6 +14,23 @@ My research is at the intersection of machine learning, computer vision, Earth s
 
 Thomas is a research scientist at the [NASA Ames Research Center](https://www.nasa.gov/ames/) and [Bay Area Environmental Research Institute](https://baeri.org/) within the [NASA Earth eXchange (NEX)](https://www.nasa.gov/nex) in Mountain View, CA. He is the Principle Investigator (PI) of a NASA ROSES grant studying optical flow methodologies for tracking atmospheric motion in satellite imagery. Thomas earned a Ph.D. in Interdisciplinary Engineering from Northeastern University in 2018 while working in the [Sustainability and Data Sciences Lab](https://web.northeastern.edu/sds/) advised by [Auroop R. Ganguly](https://coe.northeastern.edu/people/ganguly-auroop/). Prior to graduate school he worked at startups in the Boston area, including the MIT Media Lab spin-out Affectiva.  He completed his bachelors in mathematics at the University of Maryland College Park in 2012.
 
+## Projects
+
+NASA ROSES Earth Science Research from Geostationary Satellite Program (2020-2023) <br>
+Title: Quantifying Earth Process Dynamics with Optical Flow on Geostationary Satellite Imagery <br>
+PI: Vandal <br>
+Institutes: Ames, Goddard Space Flight Center (GMAO)
+
+NASA ROSES Applied Sciences Water Resources Program (2022-2025)  <br>
+Title: Remote-sensing data driven Artificial Intelligence for precipitation-Nowcasting (RAIN)  <br>
+PI: Auroop Ganguly, Co-I’s: Vandal and Duffy  <br>
+Institutes: Northeastern, Ames, DOE ORNL, Tennessee Valley Authority
+
+NASA Earth eXchange (NEX) <br>
+PI: Ramakrishna Nemani <br>
+2019 Ames Group Achievement Award
+
+
 ## Recent Work
 <p>(December 2021) Presented at the [Indian Symposium on Machine Learning (IndoML)](https://www.indoml.in).</p>
 <p>(December 2021) Presented at the AGU Fall Meeting on [Physics Guided Optical Flow](https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/820294).</p>

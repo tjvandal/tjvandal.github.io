@@ -8,13 +8,12 @@ description: Machine Learning, Data Science, and Earth Sciences
 
 ---
 
-Check out my company [Zeus AI](https://myzeus.ai/) where we use machine learning to generate continuous and global weather observations and foreasts in real-time using machine learning.
+Check out my company [Zeus AI](https://myzeus.ai/) where we use machine learning to generate continuous and global weather observations and foreasts in real-time.
 
 My research is at the intersection of machine learning, computer vision, Earth science, and high-performance computing. I am interested in machine learning applications to our ever growing datastores of spatio-temporal Earth science observations, forecasts, and projections for climate mitigation and adaptation. Recent projects have included developments of novel deep learning methods for atmospheric wind, climate downscaling, emulation, virtual sensing, and cloud tracking. 
 
 ## Bio
 
-<<<<<<< HEAD
 Thomas is a co-founder and the chief executive officer of [Zeus AI](https://myzeus.ai) and a scientist at [NASA Ames](https://www.nasa.gov/ames/)/[BAER Institute](https://baeri.org/) as a [NASA Earth eXchange (NEX)](https://www.nasa.gov/nex) member. He is a Principle Investigator (PI) in the NASA ROSES geostationary satellite program studying machine learning for tracking atmospheric motion in satellite imagery. Thomas earned a Ph.D. in Interdisciplinary Engineering from Northeastern University in 2018 while working in the [Sustainability and Data Sciences Lab](https://web.northeastern.edu/sds/) advised by [Auroop R. Ganguly](https://coe.northeastern.edu/people/ganguly-auroop/). During graduate school his research won [runner-up best paper award at SIGKDD 2017](https://www.kdd.org/awards/view/2017-sigkdd-best-paper-award-winners), outstanding graduate researcher at Northeastern University in 2018, and served as an elected student member of the committee on [Artificial Intelligence Applications to Environmental Science for the American Meterological Society (AMS)](https://www.ametsoc.org/index.cfm/stac/committees/committee-on-artificial-intelligence-applications-to-environmental-science/membership/). Prior to graduate school he worked at startups in the Boston area, including the MIT Media Lab spin-out Affectiva.  He completed his bachelors in mathematics at the University of Maryland College Park in 2012.
 
 

@@ -17,14 +17,8 @@ My research is at the intersection of machine learning, computer vision, Earth s
 Thomas is a co-founder and the chief executive officer of [Zeus AI](https://myzeus.ai) and a scientist at [NASA Ames](https://www.nasa.gov/ames/)/[BAER Institute](https://baeri.org/) as a [NASA Earth eXchange (NEX)](https://www.nasa.gov/nex) member. He is a Principle Investigator (PI) in the NASA ROSES geostationary satellite program studying machine learning for tracking atmospheric motion in satellite imagery. Thomas earned a Ph.D. in Interdisciplinary Engineering from Northeastern University in 2018 while working in the [Sustainability and Data Sciences Lab](https://web.northeastern.edu/sds/) advised by [Auroop R. Ganguly](https://coe.northeastern.edu/people/ganguly-auroop/). During graduate school his research won [runner-up best paper award at SIGKDD 2017](https://www.kdd.org/awards/view/2017-sigkdd-best-paper-award-winners), outstanding graduate researcher at Northeastern University in 2018, and served as an elected student member of the committee on [Artificial Intelligence Applications to Environmental Science for the American Meterological Society (AMS)](https://www.ametsoc.org/index.cfm/stac/committees/committee-on-artificial-intelligence-applications-to-environmental-science/membership/). Prior to graduate school he worked at startups in the Boston area, including the MIT Media Lab spin-out Affectiva.  He completed his bachelors in mathematics at the University of Maryland College Park in 2012.
 
 
-## Recent Work
-
-<p>(January 2022) Organized a session on "Deep Learning for LEO-GEO Satellite Observations" at the [21st Conference on Artificial Intelligence for Environmental Science](https://annual.ametsoc.org/index.cfm/2022/program-events/conferences-and-symposia/21st-conference-on-artificial-intelligence-for-environmental-science/).</p>
-<p>(December 2021) Invited talk presented at [AGU's fall meeting](https://www.agu.org/Fall-Meeting-2021) and the Indian Symposium on Machine Learning ([IndoML](https://indoml.in/))</p>
-=======
-Thomas is a research scientist at the [NASA Ames Research Center](https://www.nasa.gov/ames/) and [Bay Area Environmental Research Institute](https://baeri.org/) within the [NASA Earth eXchange (NEX)](https://www.nasa.gov/nex) in Mountain View, CA. He is the Principle Investigator (PI) of a NASA ROSES grant studying optical flow methodologies for tracking atmospheric motion in satellite imagery. Thomas earned a Ph.D. in Interdisciplinary Engineering from Northeastern University in 2018 while working in the [Sustainability and Data Sciences Lab](https://web.northeastern.edu/sds/) advised by [Auroop R. Ganguly](https://coe.northeastern.edu/people/ganguly-auroop/). Prior to graduate school he worked at startups in the Boston area, including the MIT Media Lab spin-out Affectiva.  He completed his bachelors in mathematics at the University of Maryland College Park in 2012.
-
 ## Projects
+
 
 NASA ROSES Earth Science Research from Geostationary Satellite Program (2020-2023) <br>
 Title: Quantifying Earth Process Dynamics with Optical Flow on Geostationary Satellite Imagery <br>
@@ -42,6 +36,8 @@ PI: Ramakrishna Nemani <br>
 
 
 ## Recent Work
+<p>(January 2022) Organized a session on "Deep Learning for LEO-GEO Satellite Observations" at the [21st Conference on Artificial Intelligence for Environmental Science](https://annual.ametsoc.org/index.cfm/2022/program-events/conferences-and-symposia/21st-conference-on-artificial-intelligence-for-environmental-science/).</p>
+<p>(December 2021) Invited talk presented at [AGU's fall meeting](https://www.agu.org/Fall-Meeting-2021) and the Indian Symposium on Machine Learning ([IndoML](https://indoml.in/))</p>
 <p>(December 2021) Presented at the [Indian Symposium on Machine Learning (IndoML)](https://www.indoml.in).</p>
 <p>(December 2021) Presented at the AGU Fall Meeting on [Physics Guided Optical Flow](https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/820294).</p>
 >>>>>>> 04c266f8d930cfdb75844ce7367c2a4afc804554

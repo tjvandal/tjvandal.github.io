@@ -40,7 +40,6 @@ PI: Ramakrishna Nemani <br>
 <p>(December 2021) Invited talk presented at [AGU's fall meeting](https://www.agu.org/Fall-Meeting-2021) and the Indian Symposium on Machine Learning ([IndoML](https://indoml.in/))</p>
 <p>(December 2021) Presented at the [Indian Symposium on Machine Learning (IndoML)](https://www.indoml.in).</p>
 <p>(December 2021) Presented at the AGU Fall Meeting on [Physics Guided Optical Flow](https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/820294).</p>
->>>>>>> 04c266f8d930cfdb75844ce7367c2a4afc804554
 <p>(September 2021) Presented at the The 3rd NOAA Workshop on Leveraging AI in Environmental Sciences, [slides](https://static.sched.com/hosted_files/2021noaaaiworkshop/a6/2021-09-14_3A_Vandal_NOAA-AI-Workshop.pdf).</p>
 <p>(August 2021) Paper titled ["Temporal Interpolation of Geostationary Satellite Imagery With Optical Flow"](https://ieeexplore.ieee.org/document/9462910) published in IEEE TNNLS Special Issue on Deep Learning in Earth and Planetary Geosciences.</p>
 <p>(August 2021) Presented at the Asia Oceania Geosciences Society (AOGS).</p>

@@ -14,11 +14,15 @@ My research is at the intersection of machine learning, computer vision, Earth s
 
 ## Bio
 
-Thomas is a co-founder and the chief executive officer of [Zeus AI](https://myzeus.ai) and a scientist at [NASA Ames](https://www.nasa.gov/ames/)/[BAER Institute](https://baeri.org/) as a [NASA Earth eXchange (NEX)](https://www.nasa.gov/nex) member. He is a Principle Investigator (PI) in the NASA ROSES geostationary satellite program studying machine learning for tracking atmospheric motion in satellite imagery. Thomas earned a Ph.D. in Interdisciplinary Engineering from Northeastern University in 2018 while working in the [Sustainability and Data Sciences Lab](https://web.northeastern.edu/sds/) advised by [Auroop R. Ganguly](https://coe.northeastern.edu/people/ganguly-auroop/). During graduate school his research won [runner-up best paper award at SIGKDD 2017](https://www.kdd.org/awards/view/2017-sigkdd-best-paper-award-winners), outstanding graduate researcher at Northeastern University in 2018, and served as an elected student member of the committee on [Artificial Intelligence Applications to Environmental Science for the American Meterological Society (AMS)](https://www.ametsoc.org/index.cfm/stac/committees/committee-on-artificial-intelligence-applications-to-environmental-science/membership/). Prior to graduate school he worked at startups in the Boston area, including the MIT Media Lab spin-out Affectiva.  He completed his bachelors in mathematics at the University of Maryland College Park in 2012.
+Thomas is a co-founder and the chief executive officer of [Zeus AI](https://myzeus.ai) and a scientist at [NASA Ames](https://www.nasa.gov/ames/)/[BAER Institute](https://baeri.org/). He is a Principle Investigator (PI) in the NASA ROSES geostationary satellite program studying machine learning for tracking atmospheric motion in satellite imagery. Thomas earned a Ph.D. in Interdisciplinary Engineering from Northeastern University in 2018 while working in the [Sustainability and Data Sciences Lab](https://web.northeastern.edu/sds/) advised by [Auroop R. Ganguly](https://coe.northeastern.edu/people/ganguly-auroop/). During graduate school his research won [runner-up best paper award at SIGKDD 2017](https://www.kdd.org/awards/view/2017-sigkdd-best-paper-award-winners), outstanding graduate researcher at Northeastern University in 2018, and served as an elected student member of the committee on [Artificial Intelligence Applications to Environmental Science for the American Meterological Society (AMS)](https://www.ametsoc.org/index.cfm/stac/committees/committee-on-artificial-intelligence-applications-to-environmental-science/membership/). Prior to graduate school he worked at startups in the Boston area, including the MIT Media Lab spin-out Affectiva.  He completed his bachelors in mathematics at the University of Maryland College Park in 2012.
 
 
 ## Projects
 
+NASA Small Business Innovation Research (SBIR) Phase I (2022-2023) <br>
+Title: Predicting 3D atmospheric structure from geostationary satellites <br>
+PI: Vandal <br>
+Company: Zeus AI, Inc.
 
 NASA ROSES Earth Science Research from Geostationary Satellite Program (2020-2023) <br>
 Title: Quantifying Earth Process Dynamics with Optical Flow on Geostationary Satellite Imagery <br>
@@ -30,26 +34,26 @@ Title: Remote-sensing data driven Artificial Intelligence for precipitation-Nowc
 PI: Auroop Ganguly, Co-I’s: Vandal and Duffy  <br>
 Institutes: Northeastern, Ames, DOE ORNL, Tennessee Valley Authority
 
-NASA Earth eXchange (NEX) <br>
-PI: Ramakrishna Nemani <br>
-2019 Ames Group Achievement Award
-
-
 ## Recent Work
+
+<p>(May 2022) NASA SBIR Phase I is selected for [Zeus AI](https://myzeus.ai). </p>
+<p>(April 2022)  Paper titled ["A framework for deep learning emulation of numerical models with a case study in satellite remote sensing"](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9769745) published in IEEE TNNLS Special Issue on Deep Learning in Earth and Planetary Geosciences.</p>
 <p>(January 2022) Organized a session on "Deep Learning for LEO-GEO Satellite Observations" at the [21st Conference on Artificial Intelligence for Environmental Science](https://annual.ametsoc.org/index.cfm/2022/program-events/conferences-and-symposia/21st-conference-on-artificial-intelligence-for-environmental-science/).</p>
 <p>(December 2021) Invited talk presented at [AGU's fall meeting](https://www.agu.org/Fall-Meeting-2021) and the Indian Symposium on Machine Learning ([IndoML](https://indoml.in/))</p>
 <p>(December 2021) Presented at the [Indian Symposium on Machine Learning (IndoML)](https://www.indoml.in).</p>
 <p>(December 2021) Presented at the AGU Fall Meeting on [Physics Guided Optical Flow](https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/820294).</p>
 <p>(September 2021) Presented at the The 3rd NOAA Workshop on Leveraging AI in Environmental Sciences, [slides](https://static.sched.com/hosted_files/2021noaaaiworkshop/a6/2021-09-14_3A_Vandal_NOAA-AI-Workshop.pdf).</p>
 <p>(August 2021) Paper titled ["Temporal Interpolation of Geostationary Satellite Imagery With Optical Flow"](https://ieeexplore.ieee.org/document/9462910) published in IEEE TNNLS Special Issue on Deep Learning in Earth and Planetary Geosciences.</p>
-<p>(August 2021) Presented at the Asia Oceania Geosciences Society (AOGS).</p>
 <p>(June 2021) Paper titled "Spectral Synthesis for Geostationary Satellite-to-Satellite Translation" published in IEEE TGRS [Paper](https://ieeexplore.ieee.org/document/9462910).</p>
 <p>(August 2020) Awarded best spotlight presentation at [1st ACM SIGKDD Workshop on Deep Learning for Spatiotemporal Data, Applications, and Systems](http://mason.gmu.edu/~lzhao9/venues/DeepSpatial2020/).</p>
 <p>(May 2020) Paper accepted to KDD 2020 research track titled "High-Dimensional Similarity Search with Quantum-Assisted Variational Autoencoder" [Paper](https://www.kdd.org/kdd2020/accepted-papers/view/high-dimensional-similarity-search-with-quantum-assisted-variational-autoen)</p>
 <p>(May 2020) NASA ROSES proposal selected by to develop optical flow methods for tracking atmospheric motion. [Selections](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7bA786F499-3D4A-1B30-2620-945ACCF3360C%7d&path=&method=init). </p>
-<p>(May 2020) Journal paper on Data science and food security published in Frontiers Sustainable Food Systems [Paper](https://www.frontiersin.org/articles/10.3389/fsufs.2020.00052/full).</p>
 
 ## Selected Publications
+
+**Vandal, T.**, Duffy, K., McCarty, W., Sewnath, A., & Nemani, R. (2022). Dense feature tracking of atmospheric winds with deep optical flow, Proceedings of the 28th ACM **SIGKDD** Conference on Knowledge Discovery and Data Mining. 
+
+Duffy. K., **Vandal, T.**, Wang, W., Nemani, R., & Ganguly, A. R. (2022). A framework for deep learning emulation of numerical models with a case study in satellite remote sensing. IEEE Transactions on Neural Networks and Learning Systems (TNNLS). [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9769745) [[Code]](https://github.com/KateDuffy/maiac-emulator)
 
 **Vandal, T.** & Nemani, R. (2021). "Optical Flow for Intermediate Frame Interpolation of Multispectral Geostationary Satellite Data". IEE Transactions on Neural Network and Learning Systems (TNNLS). Special issue on Special Issue on Deep Learning for Earth and Planetary Geosciences. [[Paper]](https://ieeexplore.ieee.org/document/9511282) [[Code]](https://github.com/tjvandal/geostationary-superslomo) [[Video]](https://www.youtube.com/watch?v=NeMXPQw3CJU&ab_channel=ThomasVandal).
 
@@ -62,7 +66,3 @@ Gao, N., Wilson, M., **Vandal, T.**, Vinci, W., Nemani, R., & Rieffel, E (2020).
 **Vandal, T.**, Kodra, E., Ganguly, S., Dy, J., Nemani, R., & Ganguly, A (2018): “Quantifying Uncertainty in Discrete-Continuous and Skewed Data with Bayesian Deep Learning,” Proceedings of the 24rd ACM **SIGKDD** Conference on Knowledge Discovery and Data Mining, 1663-1672. (Research Track, 18% acceptance rate) [[Paper]](https://www.kdd.org/kdd2018/accepted-papers/view/quantifying-uncertainty-in-discrete-continuous-and-skewed-data-with-bayesia), [[Code]](https://github.com/tjvandal/discrete-continuous-bdl).
 
 **Vandal, T.**, Kodra, E., Ganguly, S., Michaelis, A., Nemani, R., & Ganguly, A. (2017). “DeepSD: Generating high resolution climate change projections through single image super-Resolution,” KDD 2017, Proceedings of the 23rd ACM **SIGKDD** Conference on Knowledge Discovery and Data Mining, 1663-1672. (Runner-Up BEST PAPER Award in Applied Data Science Track, 9% oral acceptance rate). [[Paper]](https://www.kdd.org/kdd2017/papers/view/deepsd-generating-high-resolution-climate-change-projections-through-single) [[Code]](https://github.com/tjvandal/deepsd).
-
-**Vandal, T.**, E. Kodra, and A. Ganguly, "Intercomparison of Machine Learning Methods for Statistical Downscaling: The Case of Daily and Extreme Precipitation." *Theoretical and Applied Climatology*. September 2018. [[Paper]](https://link.springer.com/article/10.1007/s00704-018-2613-3).
-
-**Vandal, T.**, “Statistical Downscaling of Global Climate Models with Image Super-resolution and Uncertainty Quantification”, 2018. Northeastern University. [[Dissertation]](./papers/vandal_dissertation_2018.pdf).

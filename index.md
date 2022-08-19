@@ -36,6 +36,8 @@ Institutes: Northeastern, Ames, DOE ORNL, Tennessee Valley Authority
 
 ## Recent Work
 
+<p>(August 2022) Publication [Multi-sensor machine learning to retrieve high spatiotemporal resolution land surface temperature](https://ieeexplore.ieee.org/document/9856638) in IEEE Access. </p>
+<p>(August 2022) Presented our paper [Dense Feature Tracking with Deep Optical Flow](https://dl.acm.org/doi/10.1145/3534678.3539345) at SIGKDD 2022 in Washington, DC.</p>
 <p>(May 2022) NASA SBIR Phase I is selected for [Zeus AI](https://myzeus.ai). </p>
 <p>(April 2022)  Paper titled ["A framework for deep learning emulation of numerical models with a case study in satellite remote sensing"](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9769745) published in IEEE TNNLS Special Issue on Deep Learning in Earth and Planetary Geosciences.</p>
 <p>(January 2022) Organized a session on "Deep Learning for LEO-GEO Satellite Observations" at the [21st Conference on Artificial Intelligence for Environmental Science](https://annual.ametsoc.org/index.cfm/2022/program-events/conferences-and-symposia/21st-conference-on-artificial-intelligence-for-environmental-science/).</p>
@@ -51,7 +53,9 @@ Institutes: Northeastern, Ames, DOE ORNL, Tennessee Valley Authority
 
 ## Selected Publications
 
-**Vandal, T.**, Duffy, K., McCarty, W., Sewnath, A., & Nemani, R. (2022). Dense feature tracking of atmospheric winds with deep optical flow, Proceedings of the 28th ACM **SIGKDD** Conference on Knowledge Discovery and Data Mining. 
+**Vandal, T.**, Duffy, K., McCarty, W., Sewnath, A., & Nemani, R. (2022). “Dense feature tracking of atmospheric winds with deep optical flow”, Proceedings of the 28th ACM **SIGKDD** Conference on Knowledge Discovery and Data Mining (Research track, Oral, \~8% acceptance). [[Paper]](https://dl.acm.org/doi/10.1145/3534678.3539345),  [[Code]](https://github.com/tjvandal/windflow).
+
+Duffy. K., **Vandal, T.**, & Nemani, R. (2022). Multi-sensor machine learning to retrieve high spatiotemporal resolution land surface temperature. IEEE Access. [[Paper]](https://ieeexplore.ieee.org/document/9856638) [[Code]]https://github.com/KateDuffy/LEO-GEO-landsurfacetemp)
 
 Duffy. K., **Vandal, T.**, Wang, W., Nemani, R., & Ganguly, A. R. (2022). A framework for deep learning emulation of numerical models with a case study in satellite remote sensing. IEEE Transactions on Neural Networks and Learning Systems (TNNLS). [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9769745) [[Code]](https://github.com/KateDuffy/maiac-emulator)
 

@@ -10,13 +10,9 @@ featured-img: assets/images/earth-wide.jpg
 **Vandal, T.**, “Statistical Downscaling of Global Climate Models with Image Super-resolution and Uncertainty Quantification”, 2018. Northeastern University. [Dissertation](./papers/vandal_dissertation_2018.pdf)
 
 
-## Preprints
-
-[P1] Duffy, K., **Vandal, T.**, Wang, W., Nemani, R., & Ganguly, A. R. (2019). Deep Learning Emulation of Multi-Angle Implementation of Atmospheric Correction (MAIAC). arXiv preprint arXiv:1910.13408. [arXiv](https://arxiv.org/pdf/1910.13408).
-
 ## Conference Papers
 
-[C8] **Vandal, T.**, Duffy, K., McCarty, W., Sewnath, A., & Nemani, R. (2022). “Dense feature tracking of atmospheric winds with deep optical flow”, Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining. 
+[C8] **Vandal, T.**, Duffy, K., McCarty, W., Sewnath, A., & Nemani, R. (2022). “Dense feature tracking of atmospheric winds with deep optical flow”, Proceedings of the 28th ACM **SIGKDD** Conference on Knowledge Discovery and Data Mining (Research track, Oral, \~8% acceptance). [Paper](https://dl.acm.org/doi/10.1145/3534678.3539345),  [Code](https://github.com/tjvandal/windflow).
 
 [C7] Gao, N., Wilson, M., **Vandal, T.**, Vinci, W., Nemani, R., & Rieffel, E. "High-Dimensional Similarity Search with Quantum-Assisted Variational Autoencoder," Proceedings of the 26th ACM **SIGKDD** Conference on Knowledge Discovery and Data Mining (Research Track, 16% acceptance rate). [Paper](https://www.kdd.org/kdd2020/accepted-papers/view/high-dimensional-similarity-search-with-quantum-assisted-variational-autoen)
 
@@ -35,9 +31,11 @@ featured-img: assets/images/earth-wide.jpg
 
 ## Journal Publications
 
-[J8] Duffy. K., **Vandal, T.**, Wang, W., Nemani, R., & Ganguly, A. R. (2022). A framework for deep learning emulation of numerical models with a case study in satellite remote sensing. IEEE Transactions on Neural Networks and Learning Systems (TNNLS). [[Paper]] (https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9769745) [[Code]](https://github.com/KateDuffy/maiac-emulator)
+[J9] Duffy. K., **Vandal, T.**, & Nemani, R. (2022). Multi-sensor machine learning to retrieve high spatiotemporal resolution land surface temperature. IEEE Access. [Paper](https://ieeexplore.ieee.org/document/9856638) [Code](https://github.com/KateDuffy/LEO-GEO-landsurfacetemp)
 
-[J7] **Vandal, T.** & Nemani, R. (2021). "Optical Flow for Intermediate Frame Interpolation of Multispectral Geostationary Satellite Data". IEE Transactions on Neural Network and Learning Systems (TNNLS). Special issue on Special Issue on Deep Learning for Earth and Planetary Geosciences. [[Paper]](https://ieeexplore.ieee.org/document/9511282) [[Code]](https://github.com/tjvandal/geostationary-superslomo) [[Video]](https://www.youtube.com/watch?v=NeMXPQw3CJU&ab_channel=ThomasVandal).
+[J8] Duffy. K., **Vandal, T.**, Wang, W., Nemani, R., & Ganguly, A. R. (2022). A framework for deep learning emulation of numerical models with a case study in satellite remote sensing. IEEE Transactions on Neural Networks and Learning Systems (TNNLS). [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9769745) [Code](https://github.com/KateDuffy/maiac-emulator)
+
+[J7] **Vandal, T.** & Nemani, R. (2021). "Optical Flow for Intermediate Frame Interpolation of Multispectral Geostationary Satellite Data". IEE Transactions on Neural Network and Learning Systems (TNNLS). Special issue on Special Issue on Deep Learning for Earth and Planetary Geosciences. [Paper](https://ieeexplore.ieee.org/document/9511282) [Code](https://github.com/tjvandal/geostationary-superslomo) [[Video]](https://www.youtube.com/watch?v=NeMXPQw3CJU&ab_channel=ThomasVandal).
 
 [J6] **Vandal, T.**, McDuff, D., Wang, W., Duffy, K., Michaelis, A., & Nemani, R. (2021) "Spectral Synthesis for Geostationary Satellite-to-Satellite Translation". IEEE Transactions on Geoscience and Remote Sensing. [Paper](https://ieeexplore.ieee.org/document/9462910)
 

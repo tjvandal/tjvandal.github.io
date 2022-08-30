@@ -55,7 +55,7 @@ Institutes: Northeastern, Ames, DOE ORNL, Tennessee Valley Authority
 
 **Vandal, T.**, Duffy, K., McCarty, W., Sewnath, A., & Nemani, R. (2022). “Dense feature tracking of atmospheric winds with deep optical flow”, Proceedings of the 28th ACM **SIGKDD** Conference on Knowledge Discovery and Data Mining (Research track, Oral, \~8% acceptance). [[Paper]](https://dl.acm.org/doi/10.1145/3534678.3539345),  [[Code]](https://github.com/tjvandal/windflow).
 
-Duffy. K., **Vandal, T.**, & Nemani, R. (2022). Multi-sensor machine learning to retrieve high spatiotemporal resolution land surface temperature. IEEE Access. [[Paper]](https://ieeexplore.ieee.org/document/9856638) [[Code]]https://github.com/KateDuffy/LEO-GEO-landsurfacetemp)
+Duffy. K., **Vandal, T.**, & Nemani, R. (2022). Multi-sensor machine learning to retrieve high spatiotemporal resolution land surface temperature. IEEE Access. [[Paper]](https://ieeexplore.ieee.org/document/9856638) [[Code]](https://github.com/KateDuffy/LEO-GEO-landsurfacetemp)
 
 Duffy. K., **Vandal, T.**, Wang, W., Nemani, R., & Ganguly, A. R. (2022). A framework for deep learning emulation of numerical models with a case study in satellite remote sensing. IEEE Transactions on Neural Networks and Learning Systems (TNNLS). [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9769745) [[Code]](https://github.com/KateDuffy/maiac-emulator)
 
